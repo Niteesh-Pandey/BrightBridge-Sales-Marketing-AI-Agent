@@ -1,0 +1,201 @@
+id,name,industry,city,state,size,website,created_at
+1,Harbor Stores,Retail,Surat,Gujarat,11-50,https://www.harborstores1.example.com,2026-02-20
+2,Indigo Cargo Systems,Logistics,Delhi,Delhi,201-500,https://www.indigocargosystems2.example.com,2025-10-12
+3,Delta Cargo Systems,Logistics,Mysuru,Karnataka,51-200,https://www.deltacargosystems3.example.com,2025-12-20
+4,Crest Retail,Retail,Bhopal,Madhya Pradesh,11-50,https://www.crestretail4.example.com,2025-11-03
+5,Apex Healthcare,Healthcare,Kochi,Kerala,11-50,https://www.apexhealthcare5.example.com,2026-07-24
+6,Cobalt Softworks,IT Services,Surat,Gujarat,51-200,https://www.cobaltsoftworks6.example.com,2025-12-03
+7,Vista Industries,Manufacturing,Nagpur,Maharashtra,201-500,https://www.vistaindustries7.example.com,2026-08-26
+8,Nova Advisors,Financial Services,Bengaluru,Karnataka,201-500,https://www.novaadvisors8.example.com,2025-09-28
+9,Vista Hotels,Hospitality,Surat,Gujarat,51-200,https://www.vistahotels9.example.com,2026-07-19
+10,Cobalt Stays,Hospitality,Pune,Maharashtra,11-50,https://www.cobaltstays10.example.com,2026-08-05
+11,Vertex Diagnostics,Healthcare,Gurugram,Haryana,501-1000,https://www.vertexdiagnostics11.example.com,2026-06-04
+12,Apex Components,Manufacturing,Bhopal,Madhya Pradesh,11-50,https://www.apexcomponents12.example.com,2026-07-20
+13,Falcon Realty,Real Estate,Noida,Uttar Pradesh,501-1000,https://www.falconrealty13.example.com,2026-09-04
+14,Indigo Softworks,IT Services,Kolkata,West Bengal,51-200,https://www.indigosoftworks14.example.com,2026-05-31
+15,Apex Capital,Financial Services,Kochi,Kerala,501-1000,https://www.apexcapital15.example.com,2025-12-22
+16,Prime Developers,Real Estate,Bengaluru,Karnataka,11-50,https://www.primedevelopers16.example.com,2025-10-23
+17,Terra Edu Services,Education,Coimbatore,Tamil Nadu,51-200,https://www.terraeduservices17.example.com,2026-04-23
+18,Evergreen Cargo Systems,Logistics,Kochi,Kerala,11-50,https://www.evergreencargosyst18.example.com,2026-07-30
+19,Amber Stays,Hospitality,Chennai,Tamil Nadu,11-50,https://www.amberstays19.example.com,2025-09-29
+20,Terra Agritech,Agriculture,Coimbatore,Tamil Nadu,51-200,https://www.terraagritech20.example.com,2025-09-19
+21,Summit Capital,Financial Services,Mysuru,Karnataka,51-200,https://www.summitcapital21.example.com,2026-01-22
+22,Vertex Agro,Agriculture,Surat,Gujarat,51-200,https://www.vertexagro22.example.com,2026-08-15
+23,Indigo Healthcare,Healthcare,Hyderabad,Telangana,501-1000,https://www.indigohealthcare23.example.com,2025-10-23
+24,Orbit Healthcare,Healthcare,Delhi,Delhi,501-1000,https://www.orbithealthcare24.example.com,2026-08-17
+25,Vista Healthcare,Healthcare,Lucknow,Uttar Pradesh,501-1000,https://www.vistahealthcare25.example.com,2026-03-21
+26,Indigo Developers,Real Estate,Coimbatore,Tamil Nadu,11-50,https://www.indigodevelopers26.example.com,2026-07-08
+27,Metro Farms,Agriculture,Coimbatore,Tamil Nadu,501-1000,https://www.metrofarms27.example.com,2025-10-30
+28,Crest Diagnostics,Healthcare,Nagpur,Maharashtra,201-500,https://www.crestdiagnostics28.example.com,2025-10-21
+29,Pioneer Estates,Real Estate,Chennai,Tamil Nadu,51-200,https://www.pioneerestates29.example.com,2026-05-30
+30,Lotus Edu Services,Education,Mumbai,Maharashtra,201-500,https://www.lotuseduservices30.example.com,2026-04-12
+31,Evergreen Hotels,Hospitality,Lucknow,Uttar Pradesh,501-1000,https://www.evergreenhotels31.example.com,2026-06-11
+32,Vista Academy,Education,Gurugram,Haryana,11-50,https://www.vistaacademy32.example.com,2026-08-13
+33,Terra Agritech Co,Agriculture,Kolkata,West Bengal,501-1000,https://www.terraagritechco33.example.com,2026-05-04
+34,Harbor Stores Co,Retail,Pune,Maharashtra,51-200,https://www.harborstoresco34.example.com,2026-07-05
+35,Summit Finserv,Financial Services,Chandigarh,Chandigarh,501-1000,https://www.summitfinserv35.example.com,2025-11-29
+36,Summit Edu Services,Education,Kolkata,West Bengal,51-200,https://www.summiteduservices36.example.com,2026-04-18
+37,Falcon Advisors,Financial Services,Nagpur,Maharashtra,51-200,https://www.falconadvisors37.example.com,2026-06-20
+38,Pioneer Developers,Real Estate,Jaipur,Rajasthan,501-1000,https://www.pioneerdevelopers38.example.com,2026-08-05
+39,Sunrise Realty,Real Estate,Hyderabad,Telangana,201-500,https://www.sunriserealty39.example.com,2026-02-18
+40,Orbit Diagnostics,Healthcare,Kolkata,West Bengal,11-50,https://www.orbitdiagnostics40.example.com,2026-02-18
+41,Vertex Agro Co,Agriculture,Kochi,Kerala,11-50,https://www.vertexagroco41.example.com,2026-07-25
+42,Pioneer Finserv,Financial Services,Mysuru,Karnataka,501-1000,https://www.pioneerfinserv42.example.com,2026-04-29
+43,Maple Healthcare,Healthcare,Pune,Maharashtra,11-50,https://www.maplehealthcare43.example.com,2026-05-02
+44,Indigo Hospitality,Hospitality,Kochi,Kerala,51-200,https://www.indigohospitality44.example.com,2026-01-10
+45,Blue Farms,Agriculture,Kochi,Kerala,501-1000,https://www.bluefarms45.example.com,2026-02-14
+46,Crest Cargo Systems,Logistics,Surat,Gujarat,201-500,https://www.crestcargosystems46.example.com,2026-08-01
+47,Metro Retail,Retail,Indore,Madhya Pradesh,201-500,https://www.metroretail47.example.com,2025-10-25
+48,Vista Hotels Co,Hospitality,Coimbatore,Tamil Nadu,11-50,https://www.vistahotelsco48.example.com,2025-12-26
+49,Orbit Advisors,Financial Services,Mysuru,Karnataka,11-50,https://www.orbitadvisors49.example.com,2025-12-15
+50,Saffron Diagnostics,Healthcare,Kolkata,West Bengal,501-1000,https://www.saffrondiagnostics50.example.com,2026-08-28
+51,Crest Farms,Agriculture,Bhopal,Madhya Pradesh,201-500,https://www.crestfarms51.example.com,2026-01-31
+52,Prime Advisors,Financial Services,Bhopal,Madhya Pradesh,51-200,https://www.primeadvisors52.example.com,2026-05-30
+53,Swift Agro,Agriculture,Lucknow,Uttar Pradesh,201-500,https://www.swiftagro53.example.com,2026-05-12
+54,Apex Academy,Education,Bhopal,Madhya Pradesh,201-500,https://www.apexacademy54.example.com,2025-09-13
+55,Sunrise Learning,Education,Jaipur,Rajasthan,201-500,https://www.sunriselearning55.example.com,2026-06-03
+56,Nova Stays,Hospitality,Pune,Maharashtra,51-200,https://www.novastays56.example.com,2026-06-21
+57,Summit Clinics,Healthcare,Ahmedabad,Gujarat,501-1000,https://www.summitclinics57.example.com,2026-01-22
+58,Kite Cargo Systems,Logistics,Delhi,Delhi,51-200,https://www.kitecargosystems58.example.com,2025-10-20
+59,Nova Digital Systems,IT Services,Mumbai,Maharashtra,501-1000,https://www.novadigitalsystems59.example.com,2026-01-18
+60,Granite Diagnostics,Healthcare,Kochi,Kerala,51-200,https://www.granitediagnostics60.example.com,2026-01-31
+61,Apex Industries,Manufacturing,Chennai,Tamil Nadu,201-500,https://www.apexindustries61.example.com,2026-01-24
+62,Sunrise Tech Solutions,IT Services,Nagpur,Maharashtra,11-50,https://www.sunrisetechsolutio62.example.com,2026-01-27
+63,Anchor Academy,Education,Noida,Uttar Pradesh,501-1000,https://www.anchoracademy63.example.com,2025-12-14
+64,Pioneer Estates Pvt Ltd,Real Estate,Noida,Uttar Pradesh,201-500,https://www.pioneerestatespvtl64.example.com,2026-02-07
+65,Summit Fabricators,Manufacturing,Indore,Madhya Pradesh,11-50,https://www.summitfabricators65.example.com,2025-10-04
+66,Terra Freight Lines,Logistics,Bhopal,Madhya Pradesh,51-200,https://www.terrafreightlines66.example.com,2026-04-11
+67,Harbor Agro,Agriculture,Noida,Uttar Pradesh,201-500,https://www.harboragro67.example.com,2025-11-27
+68,Prime Stays,Hospitality,Gurugram,Haryana,501-1000,https://www.primestays68.example.com,2025-09-04
+69,Evergreen Clinics,Healthcare,Gurugram,Haryana,501-1000,https://www.evergreenclinics69.example.com,2026-05-31
+70,Amber Edu Services,Education,Kochi,Kerala,501-1000,https://www.ambereduservices70.example.com,2026-06-21
+71,Lotus Tech Solutions,IT Services,Coimbatore,Tamil Nadu,51-200,https://www.lotustechsolutions71.example.com,2025-09-13
+72,Delta Finserv,Financial Services,Ahmedabad,Gujarat,501-1000,https://www.deltafinserv72.example.com,2025-10-01
+73,Granite Tech Solutions,IT Services,Mumbai,Maharashtra,51-200,https://www.granitetechsolutio73.example.com,2026-02-08
+74,Lotus Tech Solutions Co,IT Services,Bhopal,Madhya Pradesh,11-50,https://www.lotustechsolutions74.example.com,2025-10-24
+75,Summit Components,Manufacturing,Delhi,Delhi,501-1000,https://www.summitcomponents75.example.com,2026-06-12
+76,Horizon Diagnostics,Healthcare,Kochi,Kerala,51-200,https://www.horizondiagnostics76.example.com,2026-06-10
+77,Sunrise Clinics,Healthcare,Gurugram,Haryana,51-200,https://www.sunriseclinics77.example.com,2026-01-12
+78,Crest Stays,Hospitality,Chennai,Tamil Nadu,501-1000,https://www.creststays78.example.com,2025-09-17
+79,Vista Fabricators,Manufacturing,Kochi,Kerala,201-500,https://www.vistafabricators79.example.com,2025-11-15
+80,Blue Edu Services,Education,Pune,Maharashtra,501-1000,https://www.blueeduservices80.example.com,2026-04-12
+81,Orbit Agritech,Agriculture,Gurugram,Haryana,11-50,https://www.orbitagritech81.example.com,2025-10-19
+82,Zen Realty,Real Estate,Gurugram,Haryana,201-500,https://www.zenrealty82.example.com,2025-12-08
+83,Summit Retail,Retail,Ahmedabad,Gujarat,201-500,https://www.summitretail83.example.com,2026-07-21
+84,Indigo Advisors,Financial Services,Mysuru,Karnataka,501-1000,https://www.indigoadvisors84.example.com,2025-10-14
+85,Pioneer Softworks,IT Services,Bengaluru,Karnataka,11-50,https://www.pioneersoftworks85.example.com,2025-10-15
+86,Apex Freight Lines,Logistics,Kolkata,West Bengal,11-50,https://www.apexfreightlines86.example.com,2026-07-18
+87,Metro Softworks,IT Services,Gurugram,Haryana,501-1000,https://www.metrosoftworks87.example.com,2025-10-05
+88,Terra Finserv,Financial Services,Jaipur,Rajasthan,51-200,https://www.terrafinserv88.example.com,2026-03-04
+89,Lotus Freight Lines,Logistics,Lucknow,Uttar Pradesh,11-50,https://www.lotusfreightlines89.example.com,2026-01-16
+90,Vista Capital,Financial Services,Kochi,Kerala,51-200,https://www.vistacapital90.example.com,2026-08-01
+91,Urban Stores,Retail,Mysuru,Karnataka,51-200,https://www.urbanstores91.example.com,2026-07-11
+92,Urban Cargo Systems,Logistics,Surat,Gujarat,11-50,https://www.urbancargosystems92.example.com,2026-08-04
+93,Horizon Hospitality,Hospitality,Chandigarh,Chandigarh,11-50,https://www.horizonhospitality93.example.com,2025-10-03
+94,Falcon Industries,Manufacturing,Coimbatore,Tamil Nadu,51-200,https://www.falconindustries94.example.com,2026-08-03
+95,Kite Developers,Real Estate,Chennai,Tamil Nadu,501-1000,https://www.kitedevelopers95.example.com,2025-12-21
+96,Metro Diagnostics,Healthcare,Jaipur,Rajasthan,501-1000,https://www.metrodiagnostics96.example.com,2026-02-05
+97,Amber Industries,Manufacturing,Nagpur,Maharashtra,501-1000,https://www.amberindustries97.example.com,2026-07-18
+98,Metro Fabricators,Manufacturing,Surat,Gujarat,11-50,https://www.metrofabricators98.example.com,2026-04-11
+99,Cobalt Advisors,Financial Services,Hyderabad,Telangana,11-50,https://www.cobaltadvisors99.example.com,2026-04-16
+100,Blue Academy,Education,Mysuru,Karnataka,201-500,https://www.blueacademy100.example.com,2026-03-16
+101,Nova Realty,Real Estate,Mumbai,Maharashtra,11-50,https://www.novarealty101.example.com,2025-12-08
+102,Swift Advisors,Financial Services,Coimbatore,Tamil Nadu,11-50,https://www.swiftadvisors102.example.com,2026-08-10
+103,Evergreen Edu Services,Education,Surat,Gujarat,501-1000,https://www.evergreeneduservic103.example.com,2025-10-30
+104,Metro Capital,Financial Services,Chennai,Tamil Nadu,501-1000,https://www.metrocapital104.example.com,2025-12-10
+105,Summit Mart,Retail,Chennai,Tamil Nadu,201-500,https://www.summitmart105.example.com,2026-07-06
+106,Saffron Digital Systems,IT Services,Indore,Madhya Pradesh,201-500,https://www.saffrondigitalsyst106.example.com,2026-07-31
+107,Cobalt Fabricators,Manufacturing,Kochi,Kerala,501-1000,https://www.cobaltfabricators107.example.com,2025-11-16
+108,Pioneer Logistics,Logistics,Chandigarh,Chandigarh,501-1000,https://www.pioneerlogistics108.example.com,2025-09-17
+109,Lotus Agritech,Agriculture,Nagpur,Maharashtra,501-1000,https://www.lotusagritech109.example.com,2026-03-31
+110,Crest Advisors,Financial Services,Gurugram,Haryana,51-200,https://www.crestadvisors110.example.com,2026-07-15
+111,Zen Components,Manufacturing,Kolkata,West Bengal,501-1000,https://www.zencomponents111.example.com,2025-11-21
+112,Maple Hotels,Hospitality,Mysuru,Karnataka,11-50,https://www.maplehotels112.example.com,2026-03-09
+113,Kite Components,Manufacturing,Indore,Madhya Pradesh,501-1000,https://www.kitecomponents113.example.com,2026-01-12
+114,Apex Mart,Retail,Delhi,Delhi,201-500,https://www.apexmart114.example.com,2025-09-05
+115,Horizon Stays,Hospitality,Chandigarh,Chandigarh,51-200,https://www.horizonstays115.example.com,2026-03-03
+116,Apex Agritech,Agriculture,Coimbatore,Tamil Nadu,11-50,https://www.apexagritech116.example.com,2026-03-21
+117,Cobalt Agro,Agriculture,Coimbatore,Tamil Nadu,11-50,https://www.cobaltagro117.example.com,2025-11-11
+118,Vertex Learning,Education,Coimbatore,Tamil Nadu,51-200,https://www.vertexlearning118.example.com,2025-09-27
+119,Zen Academy,Education,Coimbatore,Tamil Nadu,501-1000,https://www.zenacademy119.example.com,2026-05-30
+120,Summit Softworks,IT Services,Indore,Madhya Pradesh,11-50,https://www.summitsoftworks120.example.com,2025-10-02
+121,Zen Retail,Retail,Chandigarh,Chandigarh,51-200,https://www.zenretail121.example.com,2025-09-01
+122,Kite Hotels,Hospitality,Jaipur,Rajasthan,51-200,https://www.kitehotels122.example.com,2025-12-06
+123,Evergreen Farms,Agriculture,Chennai,Tamil Nadu,501-1000,https://www.evergreenfarms123.example.com,2025-12-22
+124,Saffron Components,Manufacturing,Delhi,Delhi,201-500,https://www.saffroncomponents124.example.com,2026-07-25
+125,Granite Industries,Manufacturing,Jaipur,Rajasthan,201-500,https://www.graniteindustries125.example.com,2026-08-23
+126,Nova Estates,Real Estate,Bengaluru,Karnataka,11-50,https://www.novaestates126.example.com,2026-03-26
+127,Granite Learning,Education,Gurugram,Haryana,501-1000,https://www.granitelearning127.example.com,2026-01-19
+128,Summit Fabricators India,Manufacturing,Chennai,Tamil Nadu,11-50,https://www.summitfabricatorsi128.example.com,2026-08-12
+129,Kite Stays,Hospitality,Mumbai,Maharashtra,51-200,https://www.kitestays129.example.com,2025-09-03
+130,Anchor Diagnostics,Healthcare,Noida,Uttar Pradesh,11-50,https://www.anchordiagnostics130.example.com,2025-12-11
+131,Blue Tech Solutions,IT Services,Kolkata,West Bengal,11-50,https://www.bluetechsolutions131.example.com,2025-10-15
+132,Vista Advisors,Financial Services,Delhi,Delhi,201-500,https://www.vistaadvisors132.example.com,2026-06-29
+133,Saffron Hotels,Hospitality,Noida,Uttar Pradesh,51-200,https://www.saffronhotels133.example.com,2026-08-04
+134,Lotus Softworks,IT Services,Kolkata,West Bengal,201-500,https://www.lotussoftworks134.example.com,2026-08-18
+135,Delta Estates,Real Estate,Ahmedabad,Gujarat,201-500,https://www.deltaestates135.example.com,2026-06-02
+136,Delta Fabricators,Manufacturing,Nagpur,Maharashtra,501-1000,https://www.deltafabricators136.example.com,2025-11-01
+137,Indigo Finserv,Financial Services,Chennai,Tamil Nadu,501-1000,https://www.indigofinserv137.example.com,2025-11-01
+138,Nova Cargo Systems,Logistics,Ahmedabad,Gujarat,201-500,https://www.novacargosystems138.example.com,2025-12-17
+139,Summit Clinics Group,Healthcare,Hyderabad,Telangana,501-1000,https://www.summitclinicsgroup139.example.com,2025-11-19
+140,Summit Hospitality,Hospitality,Kochi,Kerala,51-200,https://www.summithospitality140.example.com,2025-12-08
+141,Delta Logistics,Logistics,Kolkata,West Bengal,501-1000,https://www.deltalogistics141.example.com,2025-11-22
+142,Saffron Learning,Education,Lucknow,Uttar Pradesh,11-50,https://www.saffronlearning142.example.com,2026-06-28
+143,Indigo Finserv Pvt Ltd,Financial Services,Bhopal,Madhya Pradesh,201-500,https://www.indigofinservpvtlt143.example.com,2026-04-05
+144,Terra Industries,Manufacturing,Bengaluru,Karnataka,501-1000,https://www.terraindustries144.example.com,2026-08-23
+145,Kite Retail,Retail,Nagpur,Maharashtra,201-500,https://www.kiteretail145.example.com,2026-02-14
+146,Evergreen Fabricators,Manufacturing,Indore,Madhya Pradesh,201-500,https://www.evergreenfabricato146.example.com,2026-07-02
+147,Zen Academy Group,Education,Bengaluru,Karnataka,201-500,https://www.zenacademygroup147.example.com,2025-12-14
+148,Urban Edu Services,Education,Chennai,Tamil Nadu,11-50,https://www.urbaneduservices148.example.com,2025-12-22
+149,Amber Logistics,Logistics,Nagpur,Maharashtra,11-50,https://www.amberlogistics149.example.com,2025-10-12
+150,Maple Learning,Education,Kolkata,West Bengal,51-200,https://www.maplelearning150.example.com,2025-09-20
+151,Metro Hotels,Hospitality,Jaipur,Rajasthan,51-200,https://www.metrohotels151.example.com,2026-03-15
+152,Vista Finserv,Financial Services,Delhi,Delhi,201-500,https://www.vistafinserv152.example.com,2026-01-18
+153,Metro Agro,Agriculture,Noida,Uttar Pradesh,201-500,https://www.metroagro153.example.com,2025-11-14
+154,Lotus Components,Manufacturing,Jaipur,Rajasthan,51-200,https://www.lotuscomponents154.example.com,2026-05-18
+155,Metro Industries,Manufacturing,Mysuru,Karnataka,201-500,https://www.metroindustries155.example.com,2026-02-11
+156,Crest Clinics,Healthcare,Chennai,Tamil Nadu,11-50,https://www.crestclinics156.example.com,2026-02-20
+157,Harbor Finserv,Financial Services,Bhopal,Madhya Pradesh,201-500,https://www.harborfinserv157.example.com,2026-06-24
+158,Apex Logistics,Logistics,Coimbatore,Tamil Nadu,501-1000,https://www.apexlogistics158.example.com,2025-12-14
+159,Pioneer Agro,Agriculture,Ahmedabad,Gujarat,201-500,https://www.pioneeragro159.example.com,2025-11-06
+160,Sunrise Academy,Education,Hyderabad,Telangana,201-500,https://www.sunriseacademy160.example.com,2025-09-26
+161,Sunrise Farms,Agriculture,Kochi,Kerala,51-200,https://www.sunrisefarms161.example.com,2025-09-01
+162,Summit Farms,Agriculture,Gurugram,Haryana,51-200,https://www.summitfarms162.example.com,2026-08-20
+163,Metro Clinics,Healthcare,Chandigarh,Chandigarh,501-1000,https://www.metroclinics163.example.com,2026-08-05
+164,Evergreen Stores,Retail,Coimbatore,Tamil Nadu,201-500,https://www.evergreenstores164.example.com,2025-09-24
+165,Summit Learning,Education,Lucknow,Uttar Pradesh,501-1000,https://www.summitlearning165.example.com,2026-03-27
+166,Indigo Agritech,Agriculture,Ahmedabad,Gujarat,501-1000,https://www.indigoagritech166.example.com,2026-03-13
+167,Maple Hotels Co,Hospitality,Lucknow,Uttar Pradesh,51-200,https://www.maplehotelsco167.example.com,2025-12-04
+168,Vista Agro,Agriculture,Pune,Maharashtra,51-200,https://www.vistaagro168.example.com,2025-10-14
+169,Indigo Industries,Manufacturing,Mumbai,Maharashtra,51-200,https://www.indigoindustries169.example.com,2026-02-09
+170,Vertex Clinics,Healthcare,Pune,Maharashtra,51-200,https://www.vertexclinics170.example.com,2026-02-04
+171,Blue Freight Lines,Logistics,Kochi,Kerala,11-50,https://www.bluefreightlines171.example.com,2026-03-18
+172,Evergreen Tech Solutions,IT Services,Lucknow,Uttar Pradesh,11-50,https://www.evergreentechsolut172.example.com,2026-03-20
+173,Harbor Finserv India,Financial Services,Noida,Uttar Pradesh,501-1000,https://www.harborfinservindia173.example.com,2026-01-30
+174,Orbit Freight Lines,Logistics,Bengaluru,Karnataka,501-1000,https://www.orbitfreightlines174.example.com,2026-04-22
+175,Saffron Capital,Financial Services,Pune,Maharashtra,11-50,https://www.saffroncapital175.example.com,2026-01-10
+176,Maple Fabricators,Manufacturing,Hyderabad,Telangana,51-200,https://www.maplefabricators176.example.com,2026-05-16
+177,Saffron Developers,Real Estate,Kolkata,West Bengal,51-200,https://www.saffrondevelopers177.example.com,2026-05-02
+178,Amber Cargo Systems,Logistics,Indore,Madhya Pradesh,51-200,https://www.ambercargosystems178.example.com,2025-11-16
+179,Evergreen Digital Systems,IT Services,Jaipur,Rajasthan,51-200,https://www.evergreendigitalsy179.example.com,2025-12-17
+180,Delta Academy,Education,Ahmedabad,Gujarat,201-500,https://www.deltaacademy180.example.com,2026-09-04
+181,Apex Hotels,Hospitality,Surat,Gujarat,51-200,https://www.apexhotels181.example.com,2026-06-28
+182,Urban Softworks,IT Services,Hyderabad,Telangana,11-50,https://www.urbansoftworks182.example.com,2026-06-06
+183,Metro Softworks Co,IT Services,Bengaluru,Karnataka,51-200,https://www.metrosoftworksco183.example.com,2026-01-13
+184,Kite Realty,Real Estate,Bengaluru,Karnataka,51-200,https://www.kiterealty184.example.com,2026-08-02
+185,Vista Cargo Systems,Logistics,Pune,Maharashtra,501-1000,https://www.vistacargosystems185.example.com,2026-01-24
+186,Vista Edu Services,Education,Kochi,Kerala,201-500,https://www.vistaeduservices186.example.com,2025-11-14
+187,Apex Edu Services,Education,Kochi,Kerala,51-200,https://www.apexeduservices187.example.com,2025-10-20
+188,Metro Realty,Real Estate,Chennai,Tamil Nadu,501-1000,https://www.metrorealty188.example.com,2026-06-03
+189,Horizon Digital Systems,IT Services,Ahmedabad,Gujarat,51-200,https://www.horizondigitalsyst189.example.com,2026-04-28
+190,Delta Digital Systems,IT Services,Pune,Maharashtra,201-500,https://www.deltadigitalsystem190.example.com,2026-02-24
+191,Cobalt Diagnostics,Healthcare,Chennai,Tamil Nadu,11-50,https://www.cobaltdiagnostics191.example.com,2026-05-20
+192,Saffron Agro,Agriculture,Ahmedabad,Gujarat,51-200,https://www.saffronagro192.example.com,2025-11-27
+193,Swift Finserv,Financial Services,Hyderabad,Telangana,501-1000,https://www.swiftfinserv193.example.com,2026-01-10
+194,Metro Capital India,Financial Services,Gurugram,Haryana,11-50,https://www.metrocapitalindia194.example.com,2026-04-25
+195,Sunrise Clinics Group,Healthcare,Mysuru,Karnataka,501-1000,https://www.sunriseclinicsgrou195.example.com,2025-08-31
+196,Maple Digital Systems,IT Services,Indore,Madhya Pradesh,11-50,https://www.mapledigitalsystem196.example.com,2026-07-29
+197,Evergreen Tech Solutions Pvt Ltd,IT Services,Chandigarh,Chandigarh,501-1000,https://www.evergreentechsolut197.example.com,2025-10-03
+198,Blue Cargo Systems,Logistics,Mysuru,Karnataka,201-500,https://www.bluecargosystems198.example.com,2026-08-28
+199,Orbit Tech Solutions,IT Services,Mysuru,Karnataka,501-1000,https://www.orbittechsolutions199.example.com,2026-07-27
+200,Swift Clinics,Healthcare,Nagpur,Maharashtra,11-50,https://www.swiftclinics200.example.com,2026-07-20

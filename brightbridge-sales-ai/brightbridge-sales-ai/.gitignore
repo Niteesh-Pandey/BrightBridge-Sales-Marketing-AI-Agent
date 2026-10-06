@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.db
+*.sqlite
+data/exports/*
+!data/exports/.gitkeep
+data/imports/*
+!data/imports/.gitkeep
+.gradio/
+.idea/
+.vscode/

@@ -1,0 +1,2001 @@
+id,lead_id,opportunity_id,type,activity_date,outcome,notes,follow_up_date
+1,720,312.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+2,423,125.0,Call,2026-10-04,Left voicemail,Synthetic call record.,2026-10-15
+3,285,160.0,Meeting,2026-10-02,Stakeholders aligned,Synthetic meeting record.,
+4,371,,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,2026-10-09
+5,561,388.0,Email Replied,2026-09-12,Replied - asked for details,Synthetic email replied record.,
+6,565,,Note,2026-09-22,Internal note,Synthetic note record.,
+7,117,263.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+8,103,285.0,Call,2026-09-28,Connected - positive,Synthetic call record.,2026-10-04
+9,118,237.0,Email Opened,2026-07-21,Opened,Synthetic email opened record.,
+10,429,,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-09-30
+11,418,393.0,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+12,577,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+13,339,,Note,2026-07-08,Internal note,Synthetic note record.,
+14,495,,Email Opened,2026-08-02,Opened,Synthetic email opened record.,
+15,634,221.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+16,81,284.0,Note,2026-07-22,Internal note,Synthetic note record.,
+17,491,,Email Opened,2026-08-30,Opened,Synthetic email opened record.,
+18,168,,Call,2026-09-24,Connected - positive,Synthetic call record.,2026-09-29
+19,134,,Call,2026-09-29,Left voicemail,Synthetic call record.,
+20,741,,Call,2026-02-23,No answer,Synthetic call record.,
+21,689,355.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+22,711,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+23,425,187.0,Call,2026-09-22,No answer,Synthetic call record.,2026-10-01
+24,204,,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,
+25,508,,Note,2026-09-27,Internal note,Synthetic note record.,
+26,215,31.0,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,2026-10-06
+27,197,197.0,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,2026-09-29
+28,32,326.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+29,718,211.0,Note,2026-10-03,Internal note,Synthetic note record.,
+30,324,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+31,19,335.0,Meeting,2026-10-02,Rescheduled,Synthetic meeting record.,
+32,292,,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+33,120,,Call,2026-09-29,Connected - needs time,Synthetic call record.,2026-10-10
+34,511,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+35,410,88.0,Email Sent,2026-08-27,Sent,Synthetic email sent record.,
+36,405,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,
+37,100,128.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+38,351,,Call,2026-09-29,Left voicemail,Synthetic call record.,
+39,16,157.0,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+40,455,66.0,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+41,91,7.0,Meeting,2026-09-22,Discovery completed,Synthetic meeting record.,2026-09-30
+42,348,,Demo,2026-02-12,Demo completed,Synthetic demo record.,
+43,36,202.0,Call,2026-09-30,Left voicemail,Synthetic call record.,
+44,521,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+45,531,86.0,Meeting,2026-09-27,Demo completed,Synthetic meeting record.,2026-10-02
+46,213,341.0,Note,2026-07-05,Internal note,Synthetic note record.,
+47,618,,Call,2026-09-16,Connected - needs time,Synthetic call record.,2026-09-18
+48,444,,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-07
+49,12,362.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+50,212,,Note,2026-09-28,Internal note,Synthetic note record.,
+51,645,,Demo,2026-10-01,Demo completed,Synthetic demo record.,
+52,324,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+53,628,,Email Sent,2026-09-20,Sent,Synthetic email sent record.,
+54,356,293.0,Call,2026-07-23,Left voicemail,Synthetic call record.,
+55,266,50.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,
+56,306,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+57,344,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+58,20,11.0,Note,2026-10-05,Internal note,Synthetic note record.,
+59,724,,Note,2026-09-28,Internal note,Synthetic note record.,
+60,192,83.0,Email Replied,2026-07-06,Replied - interested,Synthetic email replied record.,
+61,248,288.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+62,250,399.0,Meeting,2026-02-12,Demo completed,Synthetic meeting record.,
+63,193,62.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+64,273,,Meeting,2026-09-28,Stakeholders aligned,Synthetic meeting record.,2026-10-11
+65,92,,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-11
+66,47,,Demo,2026-10-05,Demo completed,Synthetic demo record.,2026-10-08
+67,372,400.0,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,
+68,78,146.0,Meeting,2026-06-29,Rescheduled,Synthetic meeting record.,
+69,695,185.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+70,646,111.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,
+71,696,91.0,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,2026-10-16
+72,135,,Call,2026-09-28,Connected - needs time,Synthetic call record.,2026-10-03
+73,324,,Meeting,2026-09-27,Discovery completed,Synthetic meeting record.,2026-10-08
+74,461,349.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+75,680,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-03
+76,128,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+77,420,224.0,Email Opened,2026-05-30,Opened,Synthetic email opened record.,
+78,614,120.0,Call,2026-08-12,Connected - positive,Synthetic call record.,
+79,418,393.0,Email Replied,2026-09-23,Replied - interested,Synthetic email replied record.,2026-10-02
+80,34,104.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+81,695,185.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,2026-10-03
+82,51,,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,
+83,292,,Call,2026-10-05,Left voicemail,Synthetic call record.,
+84,704,,Call,2026-05-24,Connected - positive,Synthetic call record.,
+85,238,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+86,100,128.0,Meeting,2026-09-21,Discovery completed,Synthetic meeting record.,
+87,165,29.0,Email Opened,2026-09-17,Opened,Synthetic email opened record.,
+88,714,230.0,Call,2026-09-21,No answer,Synthetic call record.,
+89,548,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+90,487,,Call,2026-09-29,Connected - needs time,Synthetic call record.,
+91,12,362.0,Meeting,2026-10-05,Rescheduled,Synthetic meeting record.,
+92,509,60.0,Email Replied,2026-07-27,Replied - asked for details,Synthetic email replied record.,
+93,583,258.0,Meeting,2026-09-08,Rescheduled,Synthetic meeting record.,2026-09-11
+94,83,309.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+95,693,126.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+96,159,38.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+97,624,1.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+98,196,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+99,750,,Call,2026-10-03,Connected - positive,Synthetic call record.,2026-10-06
+100,51,,Call,2026-10-02,No answer,Synthetic call record.,
+101,682,,Email Replied,2026-08-10,Replied - asked for details,Synthetic email replied record.,
+102,707,67.0,Call,2026-09-22,No answer,Synthetic call record.,2026-09-28
+103,525,,Email Sent,2026-05-30,Sent,Synthetic email sent record.,
+104,683,48.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+105,645,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,2026-10-05
+106,551,182.0,Note,2026-09-26,Internal note,Synthetic note record.,
+107,486,30.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+108,186,170.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-07
+109,371,,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+110,31,219.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+111,394,,Email Opened,2026-04-19,Opened,Synthetic email opened record.,
+112,704,,Note,2026-04-16,Internal note,Synthetic note record.,
+113,623,389.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+114,662,,Meeting,2026-09-23,Discovery completed,Synthetic meeting record.,
+115,621,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+116,657,,Email Replied,2026-09-27,Replied - asked for details,Synthetic email replied record.,2026-10-08
+117,113,301.0,Meeting,2026-09-28,Demo completed,Synthetic meeting record.,
+118,688,354.0,Email Sent,2026-08-31,Sent,Synthetic email sent record.,
+119,590,155.0,Call,2026-09-30,No answer,Synthetic call record.,2026-10-06
+120,186,170.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+121,641,72.0,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-07
+122,725,320.0,Call,2026-10-02,No answer,Synthetic call record.,2026-10-05
+123,681,24.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-18
+124,183,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+125,107,291.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+126,127,,Demo,2026-09-03,Demo completed,Synthetic demo record.,2026-09-05
+127,42,,Note,2026-09-24,Internal note,Synthetic note record.,
+128,7,,Demo,2026-09-22,Demo completed,Synthetic demo record.,2026-10-05
+129,442,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+130,82,271.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+131,637,,Email Sent,2026-06-21,Sent,Synthetic email sent record.,
+132,666,302.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+133,236,,Note,2026-09-29,Internal note,Synthetic note record.,
+134,353,35.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+135,208,,Note,2026-08-28,Internal note,Synthetic note record.,
+136,79,,Meeting,2026-10-02,Stakeholders aligned,Synthetic meeting record.,2026-10-16
+137,706,,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-12
+138,277,178.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+139,401,292.0,Meeting,2026-10-05,Rescheduled,Synthetic meeting record.,
+140,227,222.0,Call,2026-09-22,No answer,Synthetic call record.,
+141,168,,Note,2026-09-23,Internal note,Synthetic note record.,
+142,344,,Note,2026-09-24,Internal note,Synthetic note record.,
+143,334,328.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+144,692,,Email Replied,2026-09-25,Replied - asked for details,Synthetic email replied record.,2026-10-09
+145,160,148.0,Email Opened,2026-05-21,Opened,Synthetic email opened record.,
+146,503,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+147,608,327.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+148,311,247.0,Email Replied,2026-09-26,Replied - interested,Synthetic email replied record.,
+149,683,48.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+150,183,,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-09-30
+151,12,362.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+152,685,54.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+153,537,26.0,Note,2026-07-11,Internal note,Synthetic note record.,
+154,436,239.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+155,714,230.0,Email Replied,2026-09-25,Replied - asked for details,Synthetic email replied record.,
+156,578,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+157,549,,Email Sent,2026-01-18,Sent,Synthetic email sent record.,
+158,438,79.0,Call,2026-09-25,Connected - needs time,Synthetic call record.,2026-10-04
+159,376,374.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+160,242,,Email Replied,2026-09-26,Replied - asked for details,Synthetic email replied record.,2026-10-06
+161,201,348.0,Meeting,2026-07-16,Demo completed,Synthetic meeting record.,
+162,30,,Email Opened,2026-06-20,Opened,Synthetic email opened record.,
+163,423,125.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+164,83,309.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+165,204,,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+166,696,91.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+167,16,157.0,Call,2026-09-21,Connected - positive,Synthetic call record.,
+168,362,118.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+169,558,,Email Sent,2026-07-31,Sent,Synthetic email sent record.,
+170,210,191.0,Call,2026-10-04,Connected - positive,Synthetic call record.,2026-10-10
+171,661,310.0,Note,2026-09-06,Internal note,Synthetic note record.,
+172,567,331.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-10
+173,463,,Call,2026-05-27,Connected - positive,Synthetic call record.,
+174,533,176.0,Note,2026-09-21,Internal note,Synthetic note record.,
+175,72,142.0,Demo,2026-10-02,Demo completed,Synthetic demo record.,
+176,714,230.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+177,665,277.0,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,2026-10-06
+178,196,,Call,2026-10-02,Connected - needs time,Synthetic call record.,2026-10-12
+179,2,196.0,Call,2026-09-28,Connected - positive,Synthetic call record.,2026-10-02
+180,307,16.0,Email Opened,2026-07-19,Opened,Synthetic email opened record.,
+181,473,206.0,Call,2026-09-02,Connected - needs time,Synthetic call record.,2026-09-08
+182,666,302.0,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-05
+183,210,191.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+184,310,,Email Opened,2026-06-13,Opened,Synthetic email opened record.,
+185,82,271.0,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,2026-10-08
+186,591,266.0,Meeting,2026-09-22,Demo completed,Synthetic meeting record.,2026-09-30
+187,16,157.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+188,42,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+189,301,,Email Opened,2026-06-14,Opened,Synthetic email opened record.,
+190,691,,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,2026-10-13
+191,221,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+192,398,,Call,2026-09-23,No answer,Synthetic call record.,
+193,92,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+194,616,,Meeting,2026-09-12,Discovery completed,Synthetic meeting record.,2026-09-19
+195,489,361.0,Call,2026-09-30,Left voicemail,Synthetic call record.,
+196,657,,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+197,689,355.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+198,706,,Demo,2026-10-05,Demo completed,Synthetic demo record.,
+199,373,80.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+200,12,362.0,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,2026-10-19
+201,489,361.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-11
+202,11,,Demo,2026-09-24,Demo completed,Synthetic demo record.,
+203,69,252.0,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,
+204,313,149.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-07
+205,273,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+206,413,,Email Opened,2026-08-05,Opened,Synthetic email opened record.,
+207,278,106.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+208,581,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+209,424,6.0,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,2026-10-08
+210,478,249.0,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,
+211,412,390.0,Note,2026-09-22,Internal note,Synthetic note record.,
+212,57,,Call,2026-09-10,Connected - needs time,Synthetic call record.,2026-09-23
+213,40,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+214,566,372.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+215,665,277.0,Meeting,2026-10-02,Rescheduled,Synthetic meeting record.,
+216,225,304.0,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,2026-10-10
+217,695,185.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+218,577,,Call,2026-10-03,Left voicemail,Synthetic call record.,2026-10-08
+219,664,65.0,Note,2026-09-16,Internal note,Synthetic note record.,
+220,118,237.0,Meeting,2026-09-18,Discovery completed,Synthetic meeting record.,2026-09-26
+221,211,226.0,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,
+222,389,367.0,Call,2026-09-26,Connected - needs time,Synthetic call record.,2026-10-06
+223,617,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+224,353,35.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+225,115,,Demo,2026-09-24,Demo completed,Synthetic demo record.,2026-10-02
+226,108,378.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+227,135,,Call,2026-10-04,Left voicemail,Synthetic call record.,2026-10-06
+228,438,79.0,Call,2026-09-30,No answer,Synthetic call record.,
+229,461,349.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+230,429,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+231,703,259.0,Call,2026-10-04,No answer,Synthetic call record.,2026-10-09
+232,122,,Email Sent,2026-05-14,Sent,Synthetic email sent record.,
+233,234,49.0,Meeting,2026-09-23,Rescheduled,Synthetic meeting record.,
+234,144,225.0,Note,2026-09-21,Internal note,Synthetic note record.,
+235,697,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+236,355,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+237,99,,Email Opened,2026-06-15,Opened,Synthetic email opened record.,
+238,233,,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-18
+239,533,176.0,Demo,2026-10-01,Demo completed,Synthetic demo record.,2026-10-04
+240,719,,Demo,2026-09-25,Asked for pricing,Synthetic demo record.,
+241,412,390.0,Meeting,2026-09-24,Rescheduled,Synthetic meeting record.,
+242,487,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+243,651,,Meeting,2026-07-09,Demo completed,Synthetic meeting record.,
+244,455,66.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+245,135,,Call,2026-09-30,No answer,Synthetic call record.,2026-10-06
+246,66,,Note,2026-07-03,Internal note,Synthetic note record.,
+247,448,172.0,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+248,292,,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,2026-10-12
+249,659,,Email Replied,2026-09-21,Replied - asked for details,Synthetic email replied record.,
+250,366,,Meeting,2026-02-05,Discovery completed,Synthetic meeting record.,
+251,27,,Call,2026-09-28,Connected - needs time,Synthetic call record.,
+252,665,277.0,Call,2026-10-04,Connected - positive,Synthetic call record.,
+253,331,,Email Opened,2026-09-04,Opened,Synthetic email opened record.,
+254,737,,Call,2026-10-02,No answer,Synthetic call record.,
+255,641,72.0,Meeting,2026-09-21,Stakeholders aligned,Synthetic meeting record.,
+256,384,369.0,Demo,2026-03-06,Demo completed,Synthetic demo record.,
+257,43,,Meeting,2026-09-22,Discovery completed,Synthetic meeting record.,2026-09-28
+258,120,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+259,518,368.0,Call,2026-08-22,Connected - positive,Synthetic call record.,
+260,225,304.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+261,416,210.0,Email Sent,2026-08-21,Sent,Synthetic email sent record.,
+262,125,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+263,584,395.0,Call,2026-10-02,Connected - needs time,Synthetic call record.,2026-10-15
+264,221,,Call,2026-09-25,Connected - needs time,Synthetic call record.,
+265,569,75.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+266,121,,Call,2026-10-03,No answer,Synthetic call record.,2026-10-08
+267,673,306.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-04
+268,253,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+269,638,,Demo,2026-09-25,Asked for pricing,Synthetic demo record.,2026-10-06
+270,110,175.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+271,140,43.0,Email Replied,2026-09-12,Replied - asked for details,Synthetic email replied record.,2026-09-17
+272,183,,Call,2026-10-04,Left voicemail,Synthetic call record.,
+273,101,156.0,Call,2026-03-29,Connected - positive,Synthetic call record.,
+274,230,,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+275,111,5.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+276,128,,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,2026-10-04
+277,328,260.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+278,548,,Email Opened,2026-08-28,Opened,Synthetic email opened record.,
+279,212,,Demo,2026-09-21,Demo completed,Synthetic demo record.,
+280,311,247.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+281,115,,Note,2026-10-03,Internal note,Synthetic note record.,
+282,717,151.0,Call,2026-09-27,Connected - positive,Synthetic call record.,
+283,727,152.0,Meeting,2026-09-23,Rescheduled,Synthetic meeting record.,
+284,292,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+285,136,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+286,127,,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+287,109,,Demo,2026-09-27,Demo completed,Synthetic demo record.,2026-10-06
+288,247,377.0,Call,2025-12-28,Connected - needs time,Synthetic call record.,
+289,691,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+290,533,176.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+291,293,23.0,Meeting,2026-07-25,Rescheduled,Synthetic meeting record.,
+292,441,,Email Sent,2026-07-29,Sent,Synthetic email sent record.,
+293,502,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+294,584,395.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+295,451,,Demo,2026-09-29,Demo completed,Synthetic demo record.,
+296,373,80.0,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,2026-10-10
+297,313,149.0,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,
+298,183,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+299,509,60.0,Meeting,2026-08-07,Stakeholders aligned,Synthetic meeting record.,
+300,513,,Call,2026-09-10,Connected - positive,Synthetic call record.,2026-09-24
+301,113,301.0,Email Replied,2026-09-26,Replied - interested,Synthetic email replied record.,
+302,361,,Email Opened,2026-09-10,Opened,Synthetic email opened record.,
+303,215,31.0,Call,2026-09-24,Left voicemail,Synthetic call record.,
+304,373,80.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+305,599,14.0,Meeting,2026-09-27,Discovery completed,Synthetic meeting record.,
+306,108,378.0,Meeting,2026-09-21,Rescheduled,Synthetic meeting record.,2026-10-01
+307,325,,Email Opened,2026-06-09,Opened,Synthetic email opened record.,
+308,663,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+309,175,,Call,2026-08-23,Connected - positive,Synthetic call record.,
+310,403,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+311,8,385.0,Call,2026-09-26,Connected - positive,Synthetic call record.,2026-10-03
+312,392,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+313,398,,Meeting,2026-10-03,Rescheduled,Synthetic meeting record.,
+314,680,,Note,2026-09-30,Internal note,Synthetic note record.,
+315,693,126.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+316,27,,Note,2026-05-03,Internal note,Synthetic note record.,
+317,277,178.0,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,
+318,294,45.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+319,641,72.0,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,2026-10-10
+320,522,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+321,151,350.0,Meeting,2026-09-27,Stakeholders aligned,Synthetic meeting record.,
+322,373,80.0,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,
+323,3,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+324,489,361.0,Call,2026-10-01,No answer,Synthetic call record.,
+325,69,252.0,Meeting,2026-10-05,Stakeholders aligned,Synthetic meeting record.,2026-10-16
+326,554,18.0,Call,2026-06-20,No answer,Synthetic call record.,
+327,401,292.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-14
+328,347,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+329,503,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+330,465,,Note,2026-07-26,Internal note,Synthetic note record.,
+331,140,43.0,Email Opened,2026-07-20,Opened,Synthetic email opened record.,
+332,336,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+333,459,223.0,Note,2026-09-29,Internal note,Synthetic note record.,
+334,573,,Call,2026-05-13,Left voicemail,Synthetic call record.,
+335,746,114.0,Call,2026-09-21,Connected - positive,Synthetic call record.,2026-09-24
+336,292,,Note,2026-10-02,Internal note,Synthetic note record.,
+337,122,,Meeting,2026-08-26,Rescheduled,Synthetic meeting record.,
+338,407,130.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+339,229,68.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+340,373,80.0,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,2026-10-11
+341,634,221.0,Note,2026-10-03,Internal note,Synthetic note record.,
+342,294,45.0,Demo,2026-09-27,Demo completed,Synthetic demo record.,
+343,511,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+344,731,,Email Sent,2026-08-14,Sent,Synthetic email sent record.,
+345,457,,Meeting,2026-10-03,Rescheduled,Synthetic meeting record.,2026-10-06
+346,711,,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-12
+347,512,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+348,409,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+349,345,,Email Sent,2026-06-05,Sent,Synthetic email sent record.,
+350,230,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+351,139,134.0,Email Opened,2026-06-10,Opened,Synthetic email opened record.,
+352,746,114.0,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,2026-10-09
+353,665,277.0,Call,2026-10-02,Connected - positive,Synthetic call record.,
+354,570,,Call,2026-09-25,Left voicemail,Synthetic call record.,
+355,659,,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+356,541,140.0,Email Replied,2026-06-15,Replied - interested,Synthetic email replied record.,
+357,210,191.0,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,
+358,317,397.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+359,578,,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,2026-09-30
+360,303,330.0,Note,2026-10-03,Internal note,Synthetic note record.,
+361,145,290.0,Call,2026-09-14,Left voicemail,Synthetic call record.,2026-09-27
+362,575,,Email Opened,2026-08-18,Opened,Synthetic email opened record.,
+363,519,217.0,Call,2026-02-17,No answer,Synthetic call record.,
+364,438,79.0,Call,2026-10-03,No answer,Synthetic call record.,2026-10-10
+365,539,,Note,2026-10-01,Internal note,Synthetic note record.,
+366,418,393.0,Meeting,2026-09-28,Demo completed,Synthetic meeting record.,
+367,567,331.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,
+368,472,,Demo,2026-10-04,Demo completed,Synthetic demo record.,2026-10-08
+369,183,,Call,2026-09-29,No answer,Synthetic call record.,
+370,478,249.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+371,486,30.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,2026-10-15
+372,242,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+373,193,62.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+374,347,,Demo,2026-10-05,Demo completed,Synthetic demo record.,
+375,567,331.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-12
+376,186,170.0,Call,2026-10-05,No answer,Synthetic call record.,2026-10-10
+377,609,53.0,Note,2026-04-12,Internal note,Synthetic note record.,
+378,159,38.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+379,409,,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+380,685,54.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+381,159,38.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+382,229,68.0,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,2026-10-11
+383,72,142.0,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-06
+384,545,193.0,Call,2026-09-23,Left voicemail,Synthetic call record.,2026-10-05
+385,747,,Meeting,2026-10-01,Rescheduled,Synthetic meeting record.,
+386,464,,Email Replied,2026-08-24,Replied - asked for details,Synthetic email replied record.,2026-09-05
+387,185,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+388,459,223.0,Note,2026-09-23,Internal note,Synthetic note record.,
+389,3,,Note,2026-09-21,Internal note,Synthetic note record.,
+390,371,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+391,503,,Note,2026-10-04,Internal note,Synthetic note record.,
+392,242,,Call,2026-09-25,Connected - positive,Synthetic call record.,2026-10-09
+393,581,,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+394,229,68.0,Call,2026-10-04,Connected - needs time,Synthetic call record.,
+395,421,85.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+396,599,14.0,Call,2026-09-26,Left voicemail,Synthetic call record.,2026-10-06
+397,487,,Meeting,2026-09-29,Rescheduled,Synthetic meeting record.,2026-10-05
+398,703,259.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+399,552,77.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+400,581,,Meeting,2026-10-05,Stakeholders aligned,Synthetic meeting record.,2026-10-13
+401,482,,Note,2026-09-18,Internal note,Synthetic note record.,
+402,11,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+403,210,191.0,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,
+404,411,,Meeting,2026-10-02,Rescheduled,Synthetic meeting record.,
+405,653,300.0,Email Opened,2026-08-28,Opened,Synthetic email opened record.,
+406,547,272.0,Meeting,2026-09-24,Rescheduled,Synthetic meeting record.,2026-10-07
+407,173,,Call,2026-09-26,No answer,Synthetic call record.,2026-09-28
+408,191,,Email Opened,2026-09-12,Opened,Synthetic email opened record.,
+409,80,,Note,2026-10-03,Internal note,Synthetic note record.,
+410,230,,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,
+411,423,125.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+412,411,,Meeting,2026-10-01,Discovery completed,Synthetic meeting record.,2026-10-15
+413,665,277.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-05
+414,230,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-14
+415,181,242.0,Email Sent,2026-08-31,Sent,Synthetic email sent record.,
+416,314,329.0,Email Sent,2026-08-15,Sent,Synthetic email sent record.,
+417,691,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+418,749,,Demo,2026-09-27,Asked for pricing,Synthetic demo record.,2026-10-07
+419,196,,Call,2026-09-30,Connected - positive,Synthetic call record.,
+420,731,,Email Sent,2026-06-28,Sent,Synthetic email sent record.,
+421,610,123.0,Note,2026-09-26,Internal note,Synthetic note record.,
+422,574,76.0,Email Opened,2026-08-14,Opened,Synthetic email opened record.,
+423,676,12.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+424,341,,Note,2026-09-22,Internal note,Synthetic note record.,
+425,423,125.0,Demo,2026-09-26,Asked for pricing,Synthetic demo record.,2026-10-01
+426,314,329.0,Email Opened,2026-08-12,Opened,Synthetic email opened record.,
+427,394,,Call,2026-04-21,No answer,Synthetic call record.,
+428,680,,Demo,2026-09-24,Demo completed,Synthetic demo record.,2026-10-08
+429,138,318.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+430,597,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+431,233,,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+432,215,31.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+433,591,266.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+434,640,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+435,277,178.0,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-06
+436,64,22.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+437,84,,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-05
+438,131,,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,2026-10-11
+439,711,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+440,294,45.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+441,641,72.0,Call,2026-09-22,Connected - positive,Synthetic call record.,2026-10-05
+442,487,,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,2026-10-05
+443,31,219.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-07
+444,523,279.0,Call,2026-10-05,No answer,Synthetic call record.,2026-10-18
+445,270,,Demo,2026-03-07,Asked for pricing,Synthetic demo record.,
+446,120,,Email Replied,2026-09-21,Replied - interested,Synthetic email replied record.,2026-10-05
+447,266,50.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+448,219,,Email Opened,2026-04-28,Opened,Synthetic email opened record.,
+449,458,257.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+450,676,12.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,2026-10-11
+451,111,5.0,Note,2026-09-30,Internal note,Synthetic note record.,
+452,310,,Email Sent,2026-09-19,Sent,Synthetic email sent record.,
+453,349,41.0,Note,2026-09-22,Internal note,Synthetic note record.,
+454,94,,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-11
+455,230,,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+456,357,381.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+457,618,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+458,567,331.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-06
+459,127,,Email Opened,2026-09-16,Opened,Synthetic email opened record.,
+460,501,97.0,Email Opened,2026-09-02,Opened,Synthetic email opened record.,
+461,494,336.0,Note,2026-09-24,Internal note,Synthetic note record.,
+462,466,168.0,Email Sent,2026-09-12,Sent,Synthetic email sent record.,
+463,641,72.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+464,421,85.0,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+465,338,,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,2026-10-01
+466,568,87.0,Note,2026-09-14,Internal note,Synthetic note record.,
+467,181,242.0,Email Replied,2026-05-18,Replied - interested,Synthetic email replied record.,
+468,500,340.0,Email Opened,2026-01-13,Opened,Synthetic email opened record.,
+469,313,149.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+470,638,,Call,2026-10-04,No answer,Synthetic call record.,2026-10-11
+471,338,,Note,2026-08-31,Internal note,Synthetic note record.,
+472,725,320.0,Demo,2026-09-29,Demo completed,Synthetic demo record.,
+473,103,285.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+474,391,,Call,2026-10-03,No answer,Synthetic call record.,2026-10-05
+475,401,292.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+476,469,,Call,2026-09-22,Connected - needs time,Synthetic call record.,
+477,401,292.0,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+478,211,226.0,Email Replied,2026-09-21,Replied - asked for details,Synthetic email replied record.,2026-10-04
+479,1,82.0,Call,2026-09-24,Connected - positive,Synthetic call record.,2026-10-07
+480,40,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+481,632,,Email Opened,2026-06-03,Opened,Synthetic email opened record.,
+482,482,,Call,2026-08-16,Connected - needs time,Synthetic call record.,
+483,640,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+484,102,107.0,Meeting,2026-09-04,Demo completed,Synthetic meeting record.,2026-09-16
+485,138,318.0,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+486,389,367.0,Call,2026-10-02,Left voicemail,Synthetic call record.,2026-10-05
+487,109,,Note,2026-09-21,Internal note,Synthetic note record.,
+488,666,302.0,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,2026-10-11
+489,313,149.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-10-01
+490,750,,Note,2026-09-26,Internal note,Synthetic note record.,
+491,167,,Demo,2026-09-28,Asked for pricing,Synthetic demo record.,
+492,37,,Demo,2026-09-09,Asked for pricing,Synthetic demo record.,2026-09-22
+493,685,54.0,Call,2026-09-29,Connected - positive,Synthetic call record.,2026-10-06
+494,5,,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,2026-10-09
+495,497,,Note,2026-10-04,Internal note,Synthetic note record.,
+496,412,390.0,Email Replied,2026-09-26,Replied - asked for details,Synthetic email replied record.,
+497,30,,Call,2026-08-11,Connected - positive,Synthetic call record.,
+498,423,125.0,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+499,625,275.0,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-09
+500,706,,Meeting,2026-09-22,Rescheduled,Synthetic meeting record.,
+501,502,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+502,12,362.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-06
+503,647,,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+504,730,,Email Opened,2026-08-03,Opened,Synthetic email opened record.,
+505,230,,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-11
+506,567,331.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,
+507,250,399.0,Demo,2026-04-26,Demo completed,Synthetic demo record.,
+508,692,,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-13
+509,577,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+510,238,,Note,2026-09-28,Internal note,Synthetic note record.,
+511,720,312.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+512,689,355.0,Call,2026-09-23,Connected - positive,Synthetic call record.,2026-10-04
+513,135,,Meeting,2026-10-04,Rescheduled,Synthetic meeting record.,
+514,649,209.0,Call,2026-08-23,Connected - positive,Synthetic call record.,2026-08-31
+515,646,111.0,Call,2026-09-26,Left voicemail,Synthetic call record.,2026-10-01
+516,634,221.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+517,15,,Demo,2026-06-13,Demo completed,Synthetic demo record.,
+518,169,,Email Replied,2026-06-12,Replied - interested,Synthetic email replied record.,
+519,105,173.0,Note,2026-08-04,Internal note,Synthetic note record.,
+520,642,,Call,2026-08-13,Connected - needs time,Synthetic call record.,
+521,303,330.0,Call,2026-09-25,Left voicemail,Synthetic call record.,
+522,569,75.0,Meeting,2026-09-23,Demo completed,Synthetic meeting record.,2026-09-30
+523,229,68.0,Note,2026-10-04,Internal note,Synthetic note record.,
+524,230,,Meeting,2026-10-02,Rescheduled,Synthetic meeting record.,2026-10-05
+525,398,,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,
+526,542,,Note,2026-09-25,Internal note,Synthetic note record.,
+527,349,41.0,Call,2026-09-28,Connected - positive,Synthetic call record.,2026-10-06
+528,718,211.0,Call,2026-10-05,No answer,Synthetic call record.,2026-10-07
+529,357,381.0,Call,2026-10-04,No answer,Synthetic call record.,2026-10-17
+530,419,,Meeting,2026-09-21,Demo completed,Synthetic meeting record.,2026-10-04
+531,740,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-15
+532,234,49.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,
+533,659,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+534,432,,Note,2026-09-23,Internal note,Synthetic note record.,
+535,392,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+536,172,244.0,Email Sent,2026-08-20,Sent,Synthetic email sent record.,
+537,555,92.0,Email Sent,2026-09-13,Sent,Synthetic email sent record.,
+538,423,125.0,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+539,100,128.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+540,121,,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,2026-10-03
+541,294,45.0,Note,2026-09-30,Internal note,Synthetic note record.,
+542,241,,Email Sent,2026-03-27,Sent,Synthetic email sent record.,
+543,11,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+544,510,,Email Sent,2026-09-11,Sent,Synthetic email sent record.,
+545,2,196.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+546,657,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+547,125,,Demo,2026-10-02,Demo completed,Synthetic demo record.,2026-10-14
+548,442,,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+549,376,374.0,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,
+550,621,,Note,2026-10-01,Internal note,Synthetic note record.,
+551,248,288.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,2026-10-14
+552,749,,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+553,697,,Demo,2026-09-27,Demo completed,Synthetic demo record.,
+554,501,97.0,Email Opened,2026-07-11,Opened,Synthetic email opened record.,
+555,167,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+556,29,234.0,Meeting,2026-06-05,Discovery completed,Synthetic meeting record.,
+557,647,,Meeting,2026-10-04,Rescheduled,Synthetic meeting record.,2026-10-14
+558,577,,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,2026-10-16
+559,210,191.0,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-01
+560,75,,Email Replied,2026-08-31,Replied - asked for details,Synthetic email replied record.,2026-09-09
+561,589,109.0,Email Sent,2026-09-14,Sent,Synthetic email sent record.,
+562,221,,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,2026-09-30
+563,565,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+564,279,84.0,Email Sent,2026-07-29,Sent,Synthetic email sent record.,
+565,565,,Demo,2026-09-27,Demo completed,Synthetic demo record.,2026-10-09
+566,689,355.0,Note,2026-09-28,Internal note,Synthetic note record.,
+567,538,,Meeting,2026-08-29,Discovery completed,Synthetic meeting record.,2026-09-09
+568,31,219.0,Demo,2026-10-02,Demo completed,Synthetic demo record.,2026-10-08
+569,685,54.0,Note,2026-10-03,Internal note,Synthetic note record.,
+570,270,,Email Sent,2026-03-14,Sent,Synthetic email sent record.,
+571,442,,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-12
+572,138,318.0,Meeting,2026-09-29,Rescheduled,Synthetic meeting record.,2026-10-07
+573,193,62.0,Meeting,2026-09-22,Rescheduled,Synthetic meeting record.,2026-09-24
+574,30,,Email Sent,2026-02-18,Sent,Synthetic email sent record.,
+575,49,,Email Sent,2026-08-08,Sent,Synthetic email sent record.,
+576,45,,Email Opened,2026-07-29,Opened,Synthetic email opened record.,
+577,719,,Note,2026-09-24,Internal note,Synthetic note record.,
+578,200,296.0,Demo,2026-05-13,Asked for pricing,Synthetic demo record.,
+579,79,,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,
+580,714,230.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+581,351,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+582,640,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+583,167,,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-11
+584,494,336.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+585,31,219.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,
+586,249,357.0,Call,2026-09-21,No answer,Synthetic call record.,2026-09-25
+587,375,214.0,Call,2026-10-03,Left voicemail,Synthetic call record.,2026-10-16
+588,13,241.0,Demo,2026-08-31,Asked for pricing,Synthetic demo record.,
+589,411,,Call,2026-10-03,Connected - positive,Synthetic call record.,2026-10-06
+590,299,143.0,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,
+591,268,,Note,2026-10-03,Internal note,Synthetic note record.,
+592,3,,Call,2026-10-05,Connected - positive,Synthetic call record.,
+593,655,274.0,Call,2026-05-14,Connected - positive,Synthetic call record.,
+594,486,30.0,Call,2026-09-21,Left voicemail,Synthetic call record.,2026-10-03
+595,336,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+596,451,,Note,2026-09-30,Internal note,Synthetic note record.,
+597,358,,Email Replied,2026-08-27,Replied - interested,Synthetic email replied record.,
+598,103,285.0,Note,2026-09-29,Internal note,Synthetic note record.,
+599,267,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+600,103,285.0,Meeting,2026-09-29,Rescheduled,Synthetic meeting record.,2026-10-04
+601,88,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+602,311,247.0,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-06
+603,265,159.0,Email Sent,2026-03-15,Sent,Synthetic email sent record.,
+604,171,346.0,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+605,683,48.0,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,2026-10-04
+606,79,,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,
+607,34,104.0,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-08
+608,125,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+609,281,165.0,Note,2026-07-28,Internal note,Synthetic note record.,
+610,476,,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+611,351,,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,2026-10-14
+612,505,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+613,4,108.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-07
+614,567,331.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-08
+615,354,394.0,Email Opened,2026-07-23,Opened,Synthetic email opened record.,
+616,683,48.0,Call,2026-10-03,Left voicemail,Synthetic call record.,2026-10-14
+617,111,5.0,Note,2026-09-24,Internal note,Synthetic note record.,
+618,732,,Note,2026-09-25,Internal note,Synthetic note record.,
+619,69,252.0,Note,2026-10-03,Internal note,Synthetic note record.,
+620,277,178.0,Call,2026-10-05,No answer,Synthetic call record.,
+621,700,37.0,Note,2026-08-09,Internal note,Synthetic note record.,
+622,711,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+623,742,,Email Sent,2026-03-30,Sent,Synthetic email sent record.,
+624,458,257.0,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+625,724,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+626,253,,Email Replied,2026-09-23,Replied - asked for details,Synthetic email replied record.,
+627,746,114.0,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+628,737,,Note,2026-09-21,Internal note,Synthetic note record.,
+629,228,358.0,Call,2026-10-02,No answer,Synthetic call record.,
+630,335,4.0,Email Sent,2026-07-11,Sent,Synthetic email sent record.,
+631,491,,Call,2026-07-12,Connected - needs time,Synthetic call record.,
+632,665,277.0,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,2026-10-14
+633,284,337.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+634,617,,Note,2026-09-22,Internal note,Synthetic note record.,
+635,297,339.0,Note,2026-09-19,Internal note,Synthetic note record.,
+636,409,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+637,691,,Call,2026-09-21,No answer,Synthetic call record.,
+638,659,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+639,619,235.0,Email Sent,2026-08-04,Sent,Synthetic email sent record.,
+640,43,,Meeting,2026-09-26,Discovery completed,Synthetic meeting record.,
+641,4,108.0,Meeting,2026-09-24,Discovery completed,Synthetic meeting record.,
+642,110,175.0,Demo,2026-09-25,Demo completed,Synthetic demo record.,
+643,451,,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,2026-10-18
+644,128,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+645,145,290.0,Email Opened,2026-09-11,Opened,Synthetic email opened record.,
+646,356,293.0,Note,2026-04-07,Internal note,Synthetic note record.,
+647,351,,Call,2026-10-05,Connected - needs time,Synthetic call record.,2026-10-08
+648,731,,Email Sent,2026-09-02,Sent,Synthetic email sent record.,
+649,530,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+650,577,,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+651,443,,Call,2026-09-03,No answer,Synthetic call record.,2026-09-09
+652,562,10.0,Note,2026-09-25,Internal note,Synthetic note record.,
+653,196,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+654,370,,Meeting,2026-09-21,Rescheduled,Synthetic meeting record.,
+655,53,344.0,Note,2026-10-04,Internal note,Synthetic note record.,
+656,228,358.0,Call,2026-10-01,No answer,Synthetic call record.,
+657,336,,Meeting,2026-09-24,Rescheduled,Synthetic meeting record.,2026-09-30
+658,226,17.0,Call,2026-10-02,Left voicemail,Synthetic call record.,2026-10-09
+659,349,41.0,Note,2026-09-30,Internal note,Synthetic note record.,
+660,349,41.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+661,310,,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,
+662,746,114.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+663,606,,Note,2026-04-19,Internal note,Synthetic note record.,
+664,437,,Email Sent,2026-07-03,Sent,Synthetic email sent record.,
+665,285,160.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+666,372,400.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,
+667,159,38.0,Meeting,2026-09-26,Rescheduled,Synthetic meeting record.,2026-09-30
+668,726,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+669,46,,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,
+670,164,71.0,Email Sent,2026-08-15,Sent,Synthetic email sent record.,
+671,5,,Meeting,2026-10-01,Rescheduled,Synthetic meeting record.,2026-10-07
+672,451,,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-10
+673,268,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+674,268,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+675,517,,Demo,2026-09-06,Asked for pricing,Synthetic demo record.,2026-09-15
+676,411,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+677,598,,Note,2026-09-26,Internal note,Synthetic note record.,
+678,534,240.0,Email Replied,2026-08-03,Replied - asked for details,Synthetic email replied record.,
+679,676,12.0,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-11
+680,391,,Meeting,2026-09-28,Stakeholders aligned,Synthetic meeting record.,
+681,46,,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,
+682,537,26.0,Email Sent,2026-03-20,Sent,Synthetic email sent record.,
+683,156,398.0,Email Opened,2026-04-21,Opened,Synthetic email opened record.,
+684,414,,Email Opened,2026-03-19,Opened,Synthetic email opened record.,
+685,360,203.0,Demo,2026-10-02,Demo completed,Synthetic demo record.,
+686,211,226.0,Note,2026-09-24,Internal note,Synthetic note record.,
+687,171,346.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,
+688,183,,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,2026-10-15
+689,52,282.0,Note,2026-09-23,Internal note,Synthetic note record.,
+690,334,328.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+691,578,,Note,2026-10-04,Internal note,Synthetic note record.,
+692,190,113.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+693,230,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+694,409,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+695,407,130.0,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+696,233,,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,2026-10-19
+697,673,306.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,
+698,108,378.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+699,727,152.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+700,370,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+701,478,249.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+702,625,275.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+703,159,38.0,Call,2026-09-25,Connected - needs time,Synthetic call record.,2026-10-07
+704,358,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+705,714,230.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+706,577,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+707,370,,Meeting,2026-09-25,Discovery completed,Synthetic meeting record.,2026-09-28
+708,136,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+709,3,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+710,376,374.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+711,692,,Call,2026-09-24,Left voicemail,Synthetic call record.,2026-10-01
+712,111,5.0,Call,2026-09-23,No answer,Synthetic call record.,2026-09-30
+713,286,144.0,Email Sent,2026-08-09,Sent,Synthetic email sent record.,
+714,138,318.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-10
+715,579,380.0,Call,2026-04-12,No answer,Synthetic call record.,
+716,260,,Call,2026-10-05,Connected - needs time,Synthetic call record.,2026-10-11
+717,377,,Email Sent,2026-04-30,Sent,Synthetic email sent record.,
+718,657,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+719,345,,Call,2026-03-19,Connected - needs time,Synthetic call record.,
+720,695,185.0,Call,2026-09-27,Connected - needs time,Synthetic call record.,
+721,52,282.0,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+722,457,,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,
+723,334,328.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+724,482,,Email Opened,2026-06-03,Opened,Synthetic email opened record.,
+725,51,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,2026-10-01
+726,215,31.0,Note,2026-09-28,Internal note,Synthetic note record.,
+727,84,,Meeting,2026-09-25,Discovery completed,Synthetic meeting record.,
+728,673,306.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+729,551,182.0,Call,2026-05-10,No answer,Synthetic call record.,
+730,186,170.0,Meeting,2026-10-04,Rescheduled,Synthetic meeting record.,2026-10-07
+731,505,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+732,638,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+733,424,6.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+734,535,338.0,Meeting,2026-10-02,Demo completed,Synthetic meeting record.,2026-10-08
+735,163,131.0,Note,2026-10-05,Internal note,Synthetic note record.,
+736,665,277.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,
+737,204,,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-13
+738,273,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-07
+739,297,339.0,Email Replied,2026-08-19,Replied - asked for details,Synthetic email replied record.,
+740,584,395.0,Call,2026-09-22,Left voicemail,Synthetic call record.,
+741,259,171.0,Call,2026-09-13,No answer,Synthetic call record.,
+742,696,91.0,Meeting,2026-09-28,Demo completed,Synthetic meeting record.,
+743,676,12.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-16
+744,647,,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,
+745,56,,Note,2026-09-29,Internal note,Synthetic note record.,
+746,387,98.0,Demo,2026-10-01,Demo completed,Synthetic demo record.,
+747,565,,Meeting,2026-09-25,Stakeholders aligned,Synthetic meeting record.,2026-09-28
+748,557,363.0,Note,2026-09-27,Internal note,Synthetic note record.,
+749,153,,Meeting,2026-09-30,Discovery completed,Synthetic meeting record.,
+750,158,,Email Replied,2026-09-25,Replied - interested,Synthetic email replied record.,
+751,542,,Meeting,2026-09-21,Rescheduled,Synthetic meeting record.,2026-09-24
+752,103,285.0,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,2026-10-06
+753,717,151.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+754,84,,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+755,178,313.0,Note,2026-08-12,Internal note,Synthetic note record.,
+756,5,,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-07
+757,457,,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-10
+758,733,,Email Opened,2026-05-31,Opened,Synthetic email opened record.,
+759,182,,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-08
+760,312,251.0,Email Replied,2026-07-10,Replied - interested,Synthetic email replied record.,
+761,277,178.0,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-07
+762,550,,Call,2026-04-05,Connected - positive,Synthetic call record.,
+763,343,184.0,Call,2026-10-02,No answer,Synthetic call record.,2026-10-09
+764,409,,Demo,2026-09-24,Demo completed,Synthetic demo record.,2026-10-02
+765,5,,Call,2026-10-03,Connected - positive,Synthetic call record.,
+766,703,259.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-17
+767,614,120.0,Call,2026-09-03,Left voicemail,Synthetic call record.,
+768,120,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+769,28,233.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+770,726,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+771,173,,Meeting,2026-09-29,Demo completed,Synthetic meeting record.,
+772,591,266.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+773,662,,Demo,2026-09-26,Demo completed,Synthetic demo record.,2026-10-05
+774,72,142.0,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,
+775,328,260.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+776,469,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+777,193,62.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+778,669,101.0,Email Opened,2026-09-05,Opened,Synthetic email opened record.,
+779,685,54.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+780,420,224.0,Call,2026-06-13,No answer,Synthetic call record.,
+781,411,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+782,428,179.0,Email Sent,2026-05-15,Sent,Synthetic email sent record.,
+783,107,291.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+784,376,374.0,Call,2026-10-04,Connected - positive,Synthetic call record.,2026-10-14
+785,215,31.0,Note,2026-09-30,Internal note,Synthetic note record.,
+786,613,,Call,2026-08-18,Left voicemail,Synthetic call record.,
+787,358,,Email Sent,2026-09-10,Sent,Synthetic email sent record.,
+788,107,291.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,2026-10-13
+789,416,210.0,Demo,2026-03-08,Asked for pricing,Synthetic demo record.,
+790,705,324.0,Email Sent,2026-08-14,Sent,Synthetic email sent record.,
+791,31,219.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+792,285,160.0,Note,2026-09-24,Internal note,Synthetic note record.,
+793,455,66.0,Demo,2026-09-25,Demo completed,Synthetic demo record.,
+794,442,,Call,2026-10-01,Connected - positive,Synthetic call record.,2026-10-12
+795,306,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+796,591,266.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+797,349,41.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,
+798,651,,Email Replied,2026-06-07,Replied - asked for details,Synthetic email replied record.,
+799,578,,Call,2026-09-22,Connected - needs time,Synthetic call record.,
+800,351,,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+801,174,,Note,2026-09-01,Internal note,Synthetic note record.,
+802,438,79.0,Note,2026-09-30,Internal note,Synthetic note record.,
+803,687,36.0,Note,2026-04-10,Internal note,Synthetic note record.,
+804,634,221.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+805,502,,Meeting,2026-10-02,Demo completed,Synthetic meeting record.,
+806,615,,Email Opened,2026-07-09,Opened,Synthetic email opened record.,
+807,539,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+808,427,,Email Sent,2026-08-22,Sent,Synthetic email sent record.,
+809,475,276.0,Email Sent,2026-07-11,Sent,Synthetic email sent record.,
+810,273,,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-10
+811,400,311.0,Call,2026-05-28,No answer,Synthetic call record.,
+812,88,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,
+813,45,,Note,2026-09-03,Internal note,Synthetic note record.,
+814,703,259.0,Call,2026-09-27,Left voicemail,Synthetic call record.,2026-09-29
+815,461,349.0,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+816,283,,Email Sent,2026-09-20,Sent,Synthetic email sent record.,
+817,261,138.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,2026-10-13
+818,91,7.0,Email Sent,2026-06-19,Sent,Synthetic email sent record.,
+819,4,108.0,Meeting,2026-09-26,Demo completed,Synthetic meeting record.,2026-10-01
+820,154,,Note,2026-07-29,Internal note,Synthetic note record.,
+821,644,218.0,Call,2026-10-05,Connected - needs time,Synthetic call record.,2026-10-10
+822,618,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+823,719,,Call,2026-10-04,No answer,Synthetic call record.,
+824,622,,Email Sent,2026-09-20,Sent,Synthetic email sent record.,
+825,155,,Call,2026-09-28,Connected - needs time,Synthetic call record.,
+826,193,62.0,Call,2026-10-02,Left voicemail,Synthetic call record.,2026-10-13
+827,334,328.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,2026-10-14
+828,108,378.0,Call,2026-09-22,No answer,Synthetic call record.,2026-10-02
+829,138,318.0,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,2026-10-06
+830,372,400.0,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,2026-09-26
+831,442,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+832,139,134.0,Email Opened,2026-07-07,Opened,Synthetic email opened record.,
+833,539,,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+834,723,,Email Opened,2026-05-14,Opened,Synthetic email opened record.,
+835,338,,Email Sent,2026-08-15,Sent,Synthetic email sent record.,
+836,257,213.0,Email Opened,2026-01-27,Opened,Synthetic email opened record.,
+837,689,355.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+838,186,170.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+839,650,232.0,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+840,266,50.0,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,2026-10-15
+841,173,,Note,2026-09-27,Internal note,Synthetic note record.,
+842,107,291.0,Email Replied,2026-09-29,Replied - interested,Synthetic email replied record.,
+843,299,143.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+844,457,,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,2026-10-11
+845,166,205.0,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,2026-09-29
+846,626,95.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+847,409,,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,2026-10-04
+848,601,55.0,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+849,379,,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,
+850,95,,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,
+851,659,,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+852,347,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+853,539,,Call,2026-10-03,Connected - positive,Synthetic call record.,
+854,737,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+855,391,,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-08
+856,676,12.0,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,2026-10-13
+857,574,76.0,Email Replied,2026-09-25,Replied - interested,Synthetic email replied record.,2026-10-09
+858,139,134.0,Email Sent,2026-07-21,Sent,Synthetic email sent record.,
+859,278,106.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+860,135,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+861,336,,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,
+862,292,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+863,684,,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-10
+864,673,306.0,Call,2026-10-03,Connected - positive,Synthetic call record.,2026-10-07
+865,210,191.0,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-12
+866,52,282.0,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,2026-10-02
+867,47,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+868,5,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+869,40,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+870,12,362.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-11
+871,200,296.0,Call,2026-01-14,Left voicemail,Synthetic call record.,
+872,578,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,2026-10-13
+873,750,,Note,2026-10-03,Internal note,Synthetic note record.,
+874,233,,Meeting,2026-09-28,Demo completed,Synthetic meeting record.,
+875,103,285.0,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,2026-10-09
+876,31,219.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+877,306,,Note,2026-09-22,Internal note,Synthetic note record.,
+878,405,,Note,2026-10-01,Internal note,Synthetic note record.,
+879,1,82.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,2026-10-12
+880,153,,Note,2026-09-21,Internal note,Synthetic note record.,
+881,82,271.0,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,
+882,719,,Call,2026-10-01,No answer,Synthetic call record.,2026-10-14
+883,465,,Call,2026-08-25,No answer,Synthetic call record.,
+884,619,235.0,Meeting,2026-08-09,Rescheduled,Synthetic meeting record.,
+885,360,203.0,Call,2026-10-01,Left voicemail,Synthetic call record.,
+886,34,104.0,Demo,2026-09-23,Demo completed,Synthetic demo record.,2026-09-27
+887,645,,Demo,2026-10-02,Demo completed,Synthetic demo record.,2026-10-06
+888,524,13.0,Meeting,2026-03-08,Rescheduled,Synthetic meeting record.,
+889,417,,Email Sent,2026-08-28,Sent,Synthetic email sent record.,
+890,458,257.0,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+891,327,303.0,Email Opened,2026-09-16,Opened,Synthetic email opened record.,
+892,236,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+893,362,118.0,Note,2026-09-21,Internal note,Synthetic note record.,
+894,296,322.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+895,111,5.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+896,72,142.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+897,370,,Note,2026-10-04,Internal note,Synthetic note record.,
+898,746,114.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+899,209,,Email Opened,2026-08-13,Opened,Synthetic email opened record.,
+900,497,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+901,233,,Note,2026-10-05,Internal note,Synthetic note record.,
+902,743,96.0,Meeting,2026-09-11,Rescheduled,Synthetic meeting record.,
+903,79,,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-12
+904,100,128.0,Demo,2026-09-26,Demo completed,Synthetic demo record.,2026-10-10
+905,371,,Call,2026-10-02,Connected - needs time,Synthetic call record.,2026-10-09
+906,523,279.0,Note,2026-09-30,Internal note,Synthetic note record.,
+907,210,191.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,2026-10-05
+908,146,,Email Sent,2026-06-09,Sent,Synthetic email sent record.,
+909,24,,Call,2026-09-20,Left voicemail,Synthetic call record.,2026-09-23
+910,89,286.0,Meeting,2026-07-25,Stakeholders aligned,Synthetic meeting record.,
+911,425,187.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+912,705,324.0,Call,2026-08-06,No answer,Synthetic call record.,
+913,110,175.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+914,645,,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+915,489,361.0,Call,2026-09-30,Left voicemail,Synthetic call record.,
+916,489,361.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,2026-10-11
+917,64,22.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+918,167,,Demo,2026-09-28,Demo completed,Synthetic demo record.,
+919,306,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+920,536,373.0,Email Sent,2026-07-11,Sent,Synthetic email sent record.,
+921,590,155.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+922,392,,Call,2026-09-21,Connected - needs time,Synthetic call record.,2026-10-02
+923,325,,Meeting,2026-04-01,Rescheduled,Synthetic meeting record.,
+924,725,320.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+925,9,,Call,2026-05-08,Connected - positive,Synthetic call record.,
+926,353,35.0,Demo,2026-09-28,Demo completed,Synthetic demo record.,
+927,695,185.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+928,626,95.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+929,28,233.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+930,32,326.0,Call,2026-10-01,Left voicemail,Synthetic call record.,
+931,7,,Note,2026-09-22,Internal note,Synthetic note record.,
+932,585,166.0,Note,2026-09-04,Internal note,Synthetic note record.,
+933,397,295.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+934,412,390.0,Call,2026-10-03,Left voicemail,Synthetic call record.,2026-10-15
+935,52,282.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+936,700,37.0,Call,2026-09-14,Left voicemail,Synthetic call record.,
+937,113,301.0,Meeting,2026-10-02,Stakeholders aligned,Synthetic meeting record.,2026-10-16
+938,222,342.0,Note,2026-09-26,Internal note,Synthetic note record.,
+939,650,232.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+940,725,320.0,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,2026-10-12
+941,376,374.0,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+942,121,,Call,2026-10-02,Connected - positive,Synthetic call record.,2026-10-04
+943,747,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+944,388,,Email Sent,2026-07-29,Sent,Synthetic email sent record.,
+945,18,164.0,Meeting,2026-06-26,Discovery completed,Synthetic meeting record.,
+946,621,,Meeting,2026-09-23,Rescheduled,Synthetic meeting record.,2026-09-28
+947,591,266.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+948,411,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,
+949,683,48.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+950,8,385.0,Email Opened,2026-09-15,Opened,Synthetic email opened record.,
+951,726,,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,2026-09-25
+952,437,,Email Replied,2026-02-05,Replied - asked for details,Synthetic email replied record.,
+953,84,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+954,171,346.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+955,36,202.0,Note,2026-09-25,Internal note,Synthetic note record.,
+956,523,279.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+957,737,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+958,221,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+959,737,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+960,663,,Call,2026-09-21,No answer,Synthetic call record.,2026-09-24
+961,82,271.0,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,2026-10-11
+962,428,179.0,Email Sent,2026-08-07,Sent,Synthetic email sent record.,
+963,645,,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,2026-10-15
+964,685,54.0,Note,2026-10-04,Internal note,Synthetic note record.,
+965,225,304.0,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-06
+966,47,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+967,31,219.0,Call,2026-09-29,Connected - needs time,Synthetic call record.,2026-10-10
+968,56,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+969,464,,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,
+970,117,263.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+971,424,6.0,Call,2026-09-28,Left voicemail,Synthetic call record.,2026-10-03
+972,132,246.0,Email Sent,2026-07-09,Sent,Synthetic email sent record.,
+973,690,,Email Opened,2026-07-24,Opened,Synthetic email opened record.,
+974,533,176.0,Call,2026-09-25,Left voicemail,Synthetic call record.,2026-09-28
+975,436,239.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+976,625,275.0,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+977,162,321.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,
+978,725,320.0,Call,2026-10-04,Connected - positive,Synthetic call record.,
+979,638,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+980,138,318.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,
+981,230,,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,2026-10-05
+982,494,336.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+983,664,65.0,Email Replied,2026-01-28,Replied - asked for details,Synthetic email replied record.,
+984,328,260.0,Call,2026-10-05,Connected - positive,Synthetic call record.,2026-10-19
+985,570,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+986,80,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+987,121,,Call,2026-10-05,Connected - positive,Synthetic call record.,
+988,432,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+989,336,,Demo,2026-09-24,Asked for pricing,Synthetic demo record.,
+990,186,170.0,Call,2026-10-02,Connected - needs time,Synthetic call record.,2026-10-16
+991,480,,Email Sent,2026-06-29,Sent,Synthetic email sent record.,
+992,79,,Call,2026-09-30,No answer,Synthetic call record.,
+993,659,,Meeting,2026-09-27,Discovery completed,Synthetic meeting record.,
+994,42,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+995,175,,Meeting,2026-09-04,Demo completed,Synthetic meeting record.,
+996,461,349.0,Note,2026-10-03,Internal note,Synthetic note record.,
+997,584,395.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+998,134,,Meeting,2026-10-04,Rescheduled,Synthetic meeting record.,
+999,173,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+1000,461,349.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1001,676,12.0,Demo,2026-10-05,Demo completed,Synthetic demo record.,2026-10-19
+1002,394,,Email Opened,2026-06-01,Opened,Synthetic email opened record.,
+1003,520,119.0,Note,2026-05-14,Internal note,Synthetic note record.,
+1004,300,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1005,398,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1006,542,,Meeting,2026-10-02,Discovery completed,Synthetic meeting record.,2026-10-05
+1007,182,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1008,478,249.0,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1009,696,91.0,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,
+1010,31,219.0,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,
+1011,696,91.0,Meeting,2026-10-02,Discovery completed,Synthetic meeting record.,
+1012,62,262.0,Email Opened,2026-05-11,Opened,Synthetic email opened record.,
+1013,523,279.0,Email Replied,2026-09-23,Replied - interested,Synthetic email replied record.,
+1014,565,,Call,2026-09-25,Connected - needs time,Synthetic call record.,
+1015,120,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1016,558,,Demo,2026-09-10,Asked for pricing,Synthetic demo record.,2026-09-16
+1017,42,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1018,19,335.0,Call,2026-09-30,No answer,Synthetic call record.,
+1019,640,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1020,640,,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,2026-10-10
+1021,395,294.0,Email Sent,2026-09-08,Sent,Synthetic email sent record.,
+1022,149,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1023,159,38.0,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,
+1024,675,58.0,Call,2026-05-06,Connected - needs time,Synthetic call record.,
+1025,718,211.0,Call,2026-10-03,No answer,Synthetic call record.,
+1026,227,222.0,Meeting,2026-09-21,Discovery completed,Synthetic meeting record.,
+1027,135,,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,2026-10-04
+1028,608,327.0,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1029,412,390.0,Call,2026-09-21,Connected - needs time,Synthetic call record.,
+1030,34,104.0,Demo,2026-09-27,Demo completed,Synthetic demo record.,
+1031,688,354.0,Call,2026-09-05,Connected - positive,Synthetic call record.,2026-09-15
+1032,183,,Call,2026-09-30,Connected - positive,Synthetic call record.,
+1033,315,40.0,Meeting,2026-09-27,Discovery completed,Synthetic meeting record.,2026-10-09
+1034,387,98.0,Call,2026-10-04,Connected - positive,Synthetic call record.,
+1035,565,,Email Replied,2026-09-30,Replied - asked for details,Synthetic email replied record.,
+1036,18,164.0,Email Sent,2026-06-28,Sent,Synthetic email sent record.,
+1037,659,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1038,115,,Meeting,2026-09-24,Demo completed,Synthetic meeting record.,2026-09-27
+1039,359,51.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-10-05
+1040,601,55.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1041,225,304.0,Call,2026-09-27,No answer,Synthetic call record.,
+1042,111,5.0,Call,2026-09-26,Left voicemail,Synthetic call record.,2026-10-02
+1043,388,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1044,373,80.0,Email Replied,2026-09-30,Replied - asked for details,Synthetic email replied record.,2026-10-08
+1045,15,,Email Sent,2026-09-10,Sent,Synthetic email sent record.,
+1046,674,281.0,Call,2026-09-30,No answer,Synthetic call record.,2026-10-13
+1047,392,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1048,165,29.0,Email Replied,2026-05-21,Replied - asked for details,Synthetic email replied record.,
+1049,268,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1050,599,14.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1051,459,223.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1052,444,,Call,2026-09-26,Connected - positive,Synthetic call record.,
+1053,591,266.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1054,615,,Email Sent,2026-06-09,Sent,Synthetic email sent record.,
+1055,176,42.0,Note,2026-09-18,Internal note,Synthetic note record.,
+1056,183,,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,
+1057,372,400.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1058,391,,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-16
+1059,103,285.0,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-13
+1060,298,,Email Sent,2026-08-26,Sent,Synthetic email sent record.,
+1061,577,,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,
+1062,149,,Note,2026-10-01,Internal note,Synthetic note record.,
+1063,56,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1064,210,191.0,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,
+1065,662,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1066,545,193.0,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-05
+1067,501,97.0,Email Opened,2026-07-01,Opened,Synthetic email opened record.,
+1068,659,,Call,2026-09-27,Connected - positive,Synthetic call record.,
+1069,591,266.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1070,638,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1071,350,297.0,Email Sent,2026-07-10,Sent,Synthetic email sent record.,
+1072,747,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1073,143,253.0,Demo,2026-08-17,Asked for pricing,Synthetic demo record.,
+1074,432,,Meeting,2026-09-21,Demo completed,Synthetic meeting record.,2026-09-26
+1075,619,235.0,Meeting,2026-09-11,Discovery completed,Synthetic meeting record.,2026-09-20
+1076,403,,Note,2026-09-26,Internal note,Synthetic note record.,
+1077,438,79.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1078,478,249.0,Note,2026-10-05,Internal note,Synthetic note record.,
+1079,548,,Note,2026-09-30,Internal note,Synthetic note record.,
+1080,578,,Note,2026-09-30,Internal note,Synthetic note record.,
+1081,347,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,
+1082,5,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1083,749,,Call,2026-10-05,Connected - positive,Synthetic call record.,2026-10-13
+1084,407,130.0,Call,2026-10-02,Left voicemail,Synthetic call record.,2026-10-14
+1085,184,,Demo,2026-07-25,Demo completed,Synthetic demo record.,
+1086,723,,Note,2026-06-21,Internal note,Synthetic note record.,
+1087,285,160.0,Note,2026-10-03,Internal note,Synthetic note record.,
+1088,225,304.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+1089,79,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1090,392,,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,2026-10-14
+1091,134,,Meeting,2026-09-22,Demo completed,Synthetic meeting record.,
+1092,51,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-01
+1093,181,242.0,Meeting,2026-04-10,Stakeholders aligned,Synthetic meeting record.,
+1094,93,,Email Opened,2026-01-04,Opened,Synthetic email opened record.,
+1095,638,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1096,166,205.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1097,387,98.0,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,2026-10-06
+1098,710,208.0,Email Opened,2026-09-09,Opened,Synthetic email opened record.,
+1099,674,281.0,Demo,2026-09-22,Asked for pricing,Synthetic demo record.,2026-09-26
+1100,50,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1101,584,395.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1102,626,95.0,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-08
+1103,581,,Note,2026-09-25,Internal note,Synthetic note record.,
+1104,738,,Email Opened,2026-07-30,Opened,Synthetic email opened record.,
+1105,82,271.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,
+1106,242,,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,
+1107,298,,Email Opened,2026-08-12,Opened,Synthetic email opened record.,
+1108,454,392.0,Email Sent,2026-09-08,Sent,Synthetic email sent record.,
+1109,336,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1110,376,374.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-03
+1111,746,114.0,Meeting,2026-09-29,Rescheduled,Synthetic meeting record.,
+1112,584,395.0,Meeting,2026-09-22,Rescheduled,Synthetic meeting record.,2026-10-02
+1113,64,22.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-11
+1114,107,291.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1115,418,393.0,Note,2026-10-03,Internal note,Synthetic note record.,
+1116,128,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,2026-10-10
+1117,415,,Call,2026-10-05,Left voicemail,Synthetic call record.,
+1118,109,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1119,727,152.0,Email Replied,2026-09-25,Replied - asked for details,Synthetic email replied record.,
+1120,414,,Email Opened,2026-04-03,Opened,Synthetic email opened record.,
+1121,232,229.0,Email Opened,2026-04-22,Opened,Synthetic email opened record.,
+1122,489,361.0,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,
+1123,676,12.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,2026-10-11
+1124,18,164.0,Call,2026-08-15,No answer,Synthetic call record.,
+1125,403,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1126,65,387.0,Email Opened,2026-05-12,Opened,Synthetic email opened record.,
+1127,463,,Email Sent,2026-08-11,Sent,Synthetic email sent record.,
+1128,621,,Call,2026-10-04,Connected - needs time,Synthetic call record.,
+1129,584,395.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1130,175,,Meeting,2026-09-11,Demo completed,Synthetic meeting record.,2026-09-15
+1131,432,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+1132,459,223.0,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1133,357,381.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1134,442,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1135,82,271.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1136,625,275.0,Note,2026-09-22,Internal note,Synthetic note record.,
+1137,32,326.0,Call,2026-09-29,No answer,Synthetic call record.,
+1138,53,344.0,Meeting,2026-06-18,Discovery completed,Synthetic meeting record.,
+1139,340,314.0,Call,2026-02-27,Connected - needs time,Synthetic call record.,
+1140,665,277.0,Meeting,2026-09-29,Demo completed,Synthetic meeting record.,2026-10-06
+1141,473,206.0,Note,2026-10-04,Internal note,Synthetic note record.,
+1142,330,59.0,Email Sent,2026-06-27,Sent,Synthetic email sent record.,
+1143,674,281.0,Demo,2026-09-23,Demo completed,Synthetic demo record.,
+1144,246,,Meeting,2026-08-19,Rescheduled,Synthetic meeting record.,
+1145,551,182.0,Note,2026-06-29,Internal note,Synthetic note record.,
+1146,415,,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,2026-10-12
+1147,46,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1148,162,321.0,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,
+1149,247,377.0,Email Replied,2026-08-11,Replied - interested,Synthetic email replied record.,
+1150,349,41.0,Note,2026-09-22,Internal note,Synthetic note record.,
+1151,505,,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-07
+1152,571,,Demo,2026-08-06,Asked for pricing,Synthetic demo record.,
+1153,94,,Call,2026-09-28,Left voicemail,Synthetic call record.,
+1154,84,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+1155,221,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1156,662,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1157,210,191.0,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-06
+1158,337,,Email Opened,2026-07-10,Opened,Synthetic email opened record.,
+1159,292,,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+1160,498,343.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1161,476,,Email Replied,2026-09-21,Replied - interested,Synthetic email replied record.,
+1162,72,142.0,Call,2026-10-01,Connected - needs time,Synthetic call record.,
+1163,421,85.0,Demo,2026-09-24,Asked for pricing,Synthetic demo record.,
+1164,162,321.0,Demo,2026-10-02,Demo completed,Synthetic demo record.,2026-10-05
+1165,403,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1166,159,38.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1167,295,,Email Replied,2026-09-05,Replied - asked for details,Synthetic email replied record.,
+1168,658,,Email Opened,2026-05-31,Opened,Synthetic email opened record.,
+1169,387,98.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-15
+1170,58,383.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1171,233,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1172,506,261.0,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,2026-10-13
+1173,514,145.0,Meeting,2026-09-16,Demo completed,Synthetic meeting record.,2026-09-30
+1174,50,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1175,726,,Call,2026-09-23,No answer,Synthetic call record.,2026-10-04
+1176,164,71.0,Call,2026-08-16,Connected - positive,Synthetic call record.,
+1177,718,211.0,Note,2026-09-21,Internal note,Synthetic note record.,
+1178,610,123.0,Demo,2026-09-25,Asked for pricing,Synthetic demo record.,2026-10-08
+1179,376,374.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,
+1180,485,117.0,Email Replied,2026-04-11,Replied - asked for details,Synthetic email replied record.,
+1181,724,,Note,2026-09-23,Internal note,Synthetic note record.,
+1182,64,22.0,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,2026-10-10
+1183,135,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1184,190,113.0,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1185,371,,Email Replied,2026-09-27,Replied - asked for details,Synthetic email replied record.,2026-10-08
+1186,375,214.0,Demo,2026-09-22,Demo completed,Synthetic demo record.,2026-10-03
+1187,370,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1188,508,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1189,509,60.0,Email Sent,2026-08-19,Sent,Synthetic email sent record.,
+1190,673,306.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,
+1191,418,393.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1192,683,48.0,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,2026-10-04
+1193,347,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1194,634,221.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,
+1195,512,,Call,2026-09-24,Connected - needs time,Synthetic call record.,2026-10-02
+1196,662,,Call,2026-10-02,Connected - positive,Synthetic call record.,
+1197,241,,Email Opened,2026-08-24,Opened,Synthetic email opened record.,
+1198,128,,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,
+1199,692,,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1200,296,322.0,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+1201,72,142.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,2026-10-11
+1202,387,98.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1203,577,,Demo,2026-10-01,Asked for pricing,Synthetic demo record.,2026-10-06
+1204,461,349.0,Call,2026-09-21,Connected - positive,Synthetic call record.,2026-10-02
+1205,696,91.0,Call,2026-09-28,No answer,Synthetic call record.,2026-10-03
+1206,427,,Meeting,2026-07-29,Discovery completed,Synthetic meeting record.,
+1207,644,218.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1208,210,191.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-05
+1209,266,50.0,Call,2026-09-29,Connected - positive,Synthetic call record.,
+1210,166,205.0,Demo,2026-09-28,Asked for pricing,Synthetic demo record.,2026-10-09
+1211,718,211.0,Demo,2026-09-24,Asked for pricing,Synthetic demo record.,
+1212,715,,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1213,121,,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,
+1214,523,279.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1215,578,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1216,164,71.0,Email Sent,2026-09-10,Sent,Synthetic email sent record.,
+1217,703,259.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1218,661,310.0,Call,2026-06-12,No answer,Synthetic call record.,
+1219,212,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1220,376,374.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-07
+1221,601,55.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,2026-10-14
+1222,726,,Call,2026-09-23,Connected - positive,Synthetic call record.,
+1223,98,,Note,2026-10-02,Internal note,Synthetic note record.,
+1224,110,175.0,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-05
+1225,720,312.0,Demo,2026-09-25,Demo completed,Synthetic demo record.,
+1226,610,123.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1227,241,,Call,2026-09-27,Left voicemail,Synthetic call record.,
+1228,411,,Meeting,2026-10-03,Rescheduled,Synthetic meeting record.,2026-10-09
+1229,280,,Note,2026-09-26,Internal note,Synthetic note record.,
+1230,103,285.0,Call,2026-09-29,Left voicemail,Synthetic call record.,
+1231,544,,Call,2026-07-23,Connected - needs time,Synthetic call record.,
+1232,569,75.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+1233,693,126.0,Demo,2026-10-02,Demo completed,Synthetic demo record.,2026-10-07
+1234,533,176.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1235,89,286.0,Email Sent,2026-04-23,Sent,Synthetic email sent record.,
+1236,458,257.0,Meeting,2026-09-29,Demo completed,Synthetic meeting record.,
+1237,305,248.0,Email Sent,2026-09-15,Sent,Synthetic email sent record.,
+1238,247,377.0,Email Opened,2026-02-06,Opened,Synthetic email opened record.,
+1239,497,,Meeting,2026-10-03,Rescheduled,Synthetic meeting record.,
+1240,349,41.0,Note,2026-09-24,Internal note,Synthetic note record.,
+1241,360,203.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,
+1242,103,285.0,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,
+1243,557,363.0,Call,2026-10-05,Connected - positive,Synthetic call record.,2026-10-14
+1244,481,,Email Sent,2026-08-22,Sent,Synthetic email sent record.,
+1245,135,,Demo,2026-10-02,Demo completed,Synthetic demo record.,
+1246,719,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1247,120,,Note,2026-09-26,Internal note,Synthetic note record.,
+1248,567,331.0,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+1249,476,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-06
+1250,487,,Meeting,2026-10-02,Demo completed,Synthetic meeting record.,
+1251,229,68.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1252,551,182.0,Email Sent,2026-06-01,Sent,Synthetic email sent record.,
+1253,206,115.0,Email Opened,2026-04-18,Opened,Synthetic email opened record.,
+1254,424,6.0,Meeting,2026-09-26,Rescheduled,Synthetic meeting record.,2026-10-05
+1255,2,196.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1256,234,49.0,Call,2026-09-23,Connected - needs time,Synthetic call record.,2026-09-26
+1257,366,,Email Sent,2026-04-21,Sent,Synthetic email sent record.,
+1258,94,,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,
+1259,95,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1260,406,3.0,Note,2026-09-16,Internal note,Synthetic note record.,
+1261,580,,Call,2026-09-28,Left voicemail,Synthetic call record.,
+1262,387,98.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+1263,499,,Email Sent,2026-07-06,Sent,Synthetic email sent record.,
+1264,696,91.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1265,166,205.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1266,79,,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,
+1267,665,277.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,
+1268,597,,Note,2026-09-24,Internal note,Synthetic note record.,
+1269,496,2.0,Email Sent,2026-07-20,Sent,Synthetic email sent record.,
+1270,487,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1271,691,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1272,56,,Call,2026-09-25,Connected - needs time,Synthetic call record.,2026-09-28
+1273,292,,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,2026-10-07
+1274,662,,Meeting,2026-09-21,Demo completed,Synthetic meeting record.,2026-09-30
+1275,35,25.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1276,76,365.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1277,334,328.0,Meeting,2026-09-30,Demo completed,Synthetic meeting record.,2026-10-09
+1278,135,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1279,322,15.0,Call,2026-06-21,Connected - needs time,Synthetic call record.,
+1280,344,,Call,2026-09-21,Connected - positive,Synthetic call record.,2026-10-01
+1281,107,291.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1282,12,362.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,
+1283,737,,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-05
+1284,531,86.0,Meeting,2026-09-30,Discovery completed,Synthetic meeting record.,
+1285,623,389.0,Note,2026-09-23,Internal note,Synthetic note record.,
+1286,92,,Call,2026-09-24,Connected - positive,Synthetic call record.,
+1287,159,38.0,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1288,313,149.0,Call,2026-09-30,Connected - needs time,Synthetic call record.,2026-10-14
+1289,149,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1290,676,12.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1291,698,356.0,Email Opened,2026-09-04,Opened,Synthetic email opened record.,
+1292,359,51.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1293,331,,Email Opened,2026-08-23,Opened,Synthetic email opened record.,
+1294,303,330.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,2026-10-06
+1295,229,68.0,Demo,2026-09-22,Demo completed,Synthetic demo record.,
+1296,155,,Demo,2026-09-24,Demo completed,Synthetic demo record.,2026-09-26
+1297,7,,Note,2026-09-30,Internal note,Synthetic note record.,
+1298,719,,Note,2026-09-26,Internal note,Synthetic note record.,
+1299,268,,Meeting,2026-09-21,Stakeholders aligned,Synthetic meeting record.,
+1300,330,59.0,Email Opened,2026-07-02,Opened,Synthetic email opened record.,
+1301,711,,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-15
+1302,347,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1303,585,166.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1304,409,,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-07
+1305,113,301.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1306,623,389.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1307,663,,Note,2026-10-04,Internal note,Synthetic note record.,
+1308,349,41.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1309,72,142.0,Meeting,2026-09-28,Stakeholders aligned,Synthetic meeting record.,2026-09-30
+1310,260,,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,2026-10-09
+1311,82,271.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1312,125,,Call,2026-09-30,No answer,Synthetic call record.,
+1313,371,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1314,236,,Meeting,2026-09-25,Rescheduled,Synthetic meeting record.,
+1315,110,175.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1316,676,12.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1317,389,367.0,Demo,2026-09-24,Asked for pricing,Synthetic demo record.,2026-09-26
+1318,296,322.0,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-15
+1319,577,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1320,497,,Note,2026-10-04,Internal note,Synthetic note record.,
+1321,11,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1322,403,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1323,423,125.0,Call,2026-10-02,No answer,Synthetic call record.,
+1324,599,14.0,Call,2026-10-01,No answer,Synthetic call record.,2026-10-15
+1325,483,,Demo,2026-08-28,Asked for pricing,Synthetic demo record.,
+1326,598,,Note,2026-09-27,Internal note,Synthetic note record.,
+1327,486,30.0,Call,2026-09-28,Left voicemail,Synthetic call record.,
+1328,277,178.0,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-07
+1329,152,,Note,2026-10-01,Internal note,Synthetic note record.,
+1330,359,51.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1331,580,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1332,429,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1333,621,,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,
+1334,673,306.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1335,382,,Demo,2026-07-28,Demo completed,Synthetic demo record.,
+1336,63,195.0,Call,2026-07-16,Connected - positive,Synthetic call record.,
+1337,464,,Call,2026-07-13,Connected - positive,Synthetic call record.,
+1338,647,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1339,683,48.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+1340,697,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1341,727,152.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1342,113,301.0,Note,2026-09-28,Internal note,Synthetic note record.,
+1343,388,,Call,2026-09-06,No answer,Synthetic call record.,2026-09-16
+1344,328,260.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1345,183,,Call,2026-10-05,Connected - positive,Synthetic call record.,2026-10-17
+1346,636,81.0,Email Opened,2026-07-01,Opened,Synthetic email opened record.,
+1347,212,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1348,702,105.0,Email Opened,2026-05-07,Opened,Synthetic email opened record.,
+1349,442,,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-08
+1350,425,187.0,Call,2026-09-25,No answer,Synthetic call record.,2026-10-06
+1351,160,148.0,Note,2026-07-31,Internal note,Synthetic note record.,
+1352,603,352.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1353,370,,Call,2026-09-27,Connected - needs time,Synthetic call record.,2026-10-03
+1354,236,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1355,426,186.0,Email Opened,2026-09-12,Opened,Synthetic email opened record.,
+1356,674,281.0,Call,2026-09-24,Left voicemail,Synthetic call record.,
+1357,278,106.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1358,14,379.0,Email Opened,2026-05-28,Opened,Synthetic email opened record.,
+1359,332,,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-07
+1360,737,,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-12
+1361,190,113.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-19
+1362,185,,Call,2026-09-29,Connected - positive,Synthetic call record.,2026-10-10
+1363,673,306.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-15
+1364,444,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1365,63,195.0,Note,2026-06-18,Internal note,Synthetic note record.,
+1366,432,,Note,2026-09-23,Internal note,Synthetic note record.,
+1367,254,,Note,2026-09-23,Internal note,Synthetic note record.,
+1368,750,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1369,79,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-04
+1370,128,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1371,230,,Call,2026-10-04,Connected - positive,Synthetic call record.,
+1372,689,355.0,Note,2026-09-21,Internal note,Synthetic note record.,
+1373,371,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1374,317,397.0,Call,2026-10-04,Left voicemail,Synthetic call record.,2026-10-18
+1375,294,45.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-10-11
+1376,591,266.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1377,405,,Meeting,2026-09-21,Rescheduled,Synthetic meeting record.,
+1378,640,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1379,330,59.0,Demo,2026-05-26,Demo completed,Synthetic demo record.,
+1380,601,55.0,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1381,459,223.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1382,527,46.0,Call,2026-04-10,Left voicemail,Synthetic call record.,
+1383,225,304.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1384,233,,Demo,2026-10-01,Demo completed,Synthetic demo record.,
+1385,80,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1386,40,,Meeting,2026-09-25,Demo completed,Synthetic meeting record.,
+1387,524,13.0,Email Opened,2026-09-13,Opened,Synthetic email opened record.,
+1388,353,35.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1389,139,134.0,Email Opened,2026-08-03,Opened,Synthetic email opened record.,
+1390,72,142.0,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,2026-10-09
+1391,32,326.0,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,
+1392,123,39.0,Email Opened,2026-02-12,Opened,Synthetic email opened record.,
+1393,510,,Meeting,2026-07-27,Rescheduled,Synthetic meeting record.,
+1394,322,15.0,Email Opened,2026-09-10,Opened,Synthetic email opened record.,
+1395,183,,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,
+1396,313,149.0,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-09-30
+1397,598,,Meeting,2026-10-01,Demo completed,Synthetic meeting record.,
+1398,598,,Call,2026-09-23,No answer,Synthetic call record.,2026-09-28
+1399,182,,Demo,2026-09-29,Demo completed,Synthetic demo record.,
+1400,588,347.0,Email Sent,2026-05-10,Sent,Synthetic email sent record.,
+1401,467,137.0,Note,2026-08-08,Internal note,Synthetic note record.,
+1402,523,279.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,2026-10-07
+1403,125,,Call,2026-09-28,Left voicemail,Synthetic call record.,
+1404,225,304.0,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-03
+1405,121,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1406,396,227.0,Email Sent,2026-09-20,Sent,Synthetic email sent record.,
+1407,79,,Call,2026-09-29,Connected - needs time,Synthetic call record.,2026-10-09
+1408,135,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1409,333,,Note,2026-09-29,Internal note,Synthetic note record.,
+1410,334,328.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,
+1411,51,,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,2026-10-14
+1412,159,38.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1413,523,279.0,Meeting,2026-09-22,Stakeholders aligned,Synthetic meeting record.,2026-10-02
+1414,730,,Email Sent,2026-04-26,Sent,Synthetic email sent record.,
+1415,714,230.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1416,373,80.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+1417,32,326.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,2026-10-13
+1418,238,,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+1419,80,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1420,201,348.0,Meeting,2026-04-30,Discovery completed,Synthetic meeting record.,
+1421,336,,Meeting,2026-09-21,Demo completed,Synthetic meeting record.,
+1422,497,,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,2026-10-13
+1423,512,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1424,253,,Call,2026-10-05,Left voicemail,Synthetic call record.,2026-10-08
+1425,724,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1426,539,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1427,230,,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,
+1428,647,,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1429,380,,Demo,2026-04-05,Asked for pricing,Synthetic demo record.,
+1430,353,35.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,2026-10-08
+1431,179,141.0,Email Opened,2026-07-31,Opened,Synthetic email opened record.,
+1432,634,221.0,Call,2026-09-22,Left voicemail,Synthetic call record.,2026-09-25
+1433,444,,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,
+1434,7,,Call,2026-09-25,No answer,Synthetic call record.,
+1435,167,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1436,722,,Call,2026-09-03,Left voicemail,Synthetic call record.,
+1437,617,,Call,2026-09-26,Connected - needs time,Synthetic call record.,
+1438,674,281.0,Note,2026-10-01,Internal note,Synthetic note record.,
+1439,359,51.0,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,2026-10-01
+1440,178,313.0,Meeting,2026-10-01,Rescheduled,Synthetic meeting record.,
+1441,535,338.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1442,638,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1443,113,301.0,Call,2026-10-02,Left voicemail,Synthetic call record.,2026-10-05
+1444,18,164.0,Email Sent,2026-07-25,Sent,Synthetic email sent record.,
+1445,385,169.0,Call,2026-05-11,Connected - needs time,Synthetic call record.,
+1446,117,263.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,2026-10-10
+1447,676,12.0,Meeting,2026-10-04,Rescheduled,Synthetic meeting record.,2026-10-12
+1448,82,271.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-10-08
+1449,626,95.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1450,204,,Meeting,2026-09-21,Stakeholders aligned,Synthetic meeting record.,
+1451,697,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1452,435,220.0,Email Replied,2026-09-10,Replied - interested,Synthetic email replied record.,2026-09-24
+1453,134,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1454,639,90.0,Email Sent,2026-09-18,Sent,Synthetic email sent record.,
+1455,344,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+1456,2,196.0,Note,2026-09-30,Internal note,Synthetic note record.,
+1457,328,260.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1458,327,303.0,Email Opened,2026-08-12,Opened,Synthetic email opened record.,
+1459,5,,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-02
+1460,532,19.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1461,401,292.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,
+1462,591,266.0,Call,2026-10-05,Connected - needs time,Synthetic call record.,2026-10-19
+1463,319,267.0,Call,2026-07-22,Left voicemail,Synthetic call record.,
+1464,397,295.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1465,599,14.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1466,353,35.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-15
+1467,125,,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-06
+1468,521,,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1469,94,,Call,2026-09-30,Connected - needs time,Synthetic call record.,
+1470,277,178.0,Call,2026-10-04,No answer,Synthetic call record.,2026-10-15
+1471,703,259.0,Email Replied,2026-09-23,Replied - interested,Synthetic email replied record.,2026-09-30
+1472,347,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-11
+1473,362,118.0,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1474,69,252.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1475,706,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1476,103,285.0,Call,2026-09-30,No answer,Synthetic call record.,2026-10-02
+1477,545,193.0,Note,2026-10-01,Internal note,Synthetic note record.,
+1478,633,,Call,2026-09-30,No answer,Synthetic call record.,2026-10-02
+1479,326,201.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,2026-10-12
+1480,638,,Call,2026-09-24,Connected - positive,Synthetic call record.,
+1481,43,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1482,299,143.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1483,193,62.0,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,
+1484,676,12.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1485,387,98.0,Meeting,2026-10-03,Demo completed,Synthetic meeting record.,
+1486,64,22.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,
+1487,3,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1488,708,,Call,2026-04-24,Connected - positive,Synthetic call record.,
+1489,64,22.0,Meeting,2026-10-05,Discovery completed,Synthetic meeting record.,
+1490,737,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1491,314,329.0,Email Opened,2026-08-19,Opened,Synthetic email opened record.,
+1492,35,25.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1493,50,,Call,2026-09-29,Connected - positive,Synthetic call record.,
+1494,720,312.0,Meeting,2026-09-21,Discovery completed,Synthetic meeting record.,
+1495,668,64.0,Meeting,2026-05-15,Stakeholders aligned,Synthetic meeting record.,
+1496,159,38.0,Call,2026-09-23,Connected - needs time,Synthetic call record.,2026-10-04
+1497,662,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1498,193,62.0,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1499,720,312.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1500,623,389.0,Note,2026-10-02,Internal note,Synthetic note record.,
+1501,21,110.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1502,155,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1503,149,,Meeting,2026-09-21,Rescheduled,Synthetic meeting record.,
+1504,182,,Email Replied,2026-10-02,Replied - asked for details,Synthetic email replied record.,
+1505,392,,Demo,2026-09-29,Asked for pricing,Synthetic demo record.,
+1506,28,233.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1507,746,114.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1508,405,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1509,278,106.0,Note,2026-09-29,Internal note,Synthetic note record.,
+1510,234,49.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,
+1511,288,,Call,2026-06-13,No answer,Synthetic call record.,
+1512,53,344.0,Email Sent,2026-09-15,Sent,Synthetic email sent record.,
+1513,556,8.0,Call,2026-09-18,No answer,Synthetic call record.,2026-10-02
+1514,79,,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-09-30
+1515,676,12.0,Note,2026-10-04,Internal note,Synthetic note record.,
+1516,597,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1517,103,285.0,Meeting,2026-09-28,Demo completed,Synthetic meeting record.,2026-10-11
+1518,117,263.0,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+1519,626,95.0,Note,2026-09-24,Internal note,Synthetic note record.,
+1520,750,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1521,125,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+1522,665,277.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1523,578,,Note,2026-09-24,Internal note,Synthetic note record.,
+1524,229,68.0,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,
+1525,725,320.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,
+1526,328,260.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1527,532,19.0,Call,2026-09-28,No answer,Synthetic call record.,2026-10-05
+1528,478,249.0,Meeting,2026-09-25,Rescheduled,Synthetic meeting record.,2026-09-27
+1529,204,,Call,2026-09-25,Connected - positive,Synthetic call record.,
+1530,138,318.0,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,2026-10-07
+1531,316,396.0,Email Sent,2026-09-03,Sent,Synthetic email sent record.,
+1532,460,99.0,Note,2026-09-07,Internal note,Synthetic note record.,
+1533,673,306.0,Email Replied,2026-09-30,Replied - asked for details,Synthetic email replied record.,
+1534,513,,Email Sent,2026-07-10,Sent,Synthetic email sent record.,
+1535,284,337.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1536,418,393.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1537,708,,Email Sent,2026-05-18,Sent,Synthetic email sent record.,
+1538,542,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1539,749,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1540,542,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-08
+1541,426,186.0,Email Sent,2026-09-07,Sent,Synthetic email sent record.,
+1542,367,245.0,Email Opened,2026-08-26,Opened,Synthetic email opened record.,
+1543,153,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1544,50,,Note,2026-10-02,Internal note,Synthetic note record.,
+1545,181,242.0,Email Opened,2026-08-19,Opened,Synthetic email opened record.,
+1546,399,334.0,Email Sent,2026-05-09,Sent,Synthetic email sent record.,
+1547,494,336.0,Meeting,2026-10-02,Discovery completed,Synthetic meeting record.,2026-10-05
+1548,7,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1549,478,249.0,Call,2026-09-22,Left voicemail,Synthetic call record.,2026-09-24
+1550,376,374.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1551,62,262.0,Email Sent,2026-06-14,Sent,Synthetic email sent record.,
+1552,455,66.0,Note,2026-10-01,Internal note,Synthetic note record.,
+1553,720,312.0,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,
+1554,230,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1555,225,304.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1556,309,,Meeting,2026-07-06,Demo completed,Synthetic meeting record.,
+1557,344,,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-09
+1558,676,12.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,2026-10-19
+1559,645,,Meeting,2026-10-02,Demo completed,Synthetic meeting record.,2026-10-06
+1560,322,15.0,Call,2026-08-16,Connected - needs time,Synthetic call record.,
+1561,47,,Note,2026-09-21,Internal note,Synthetic note record.,
+1562,388,,Meeting,2026-08-04,Stakeholders aligned,Synthetic meeting record.,
+1563,415,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1564,373,80.0,Email Replied,2026-09-30,Replied - asked for details,Synthetic email replied record.,2026-10-13
+1565,418,393.0,Note,2026-09-24,Internal note,Synthetic note record.,
+1566,532,19.0,Call,2026-09-29,No answer,Synthetic call record.,2026-10-01
+1567,693,126.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1568,450,112.0,Note,2026-01-18,Internal note,Synthetic note record.,
+1569,683,48.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-02
+1570,749,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1571,113,301.0,Call,2026-10-03,Connected - needs time,Synthetic call record.,
+1572,459,223.0,Call,2026-10-03,Connected - positive,Synthetic call record.,2026-10-09
+1573,193,62.0,Call,2026-10-01,Connected - positive,Synthetic call record.,
+1574,44,190.0,Call,2026-07-24,Connected - needs time,Synthetic call record.,
+1575,531,86.0,Call,2026-09-24,Connected - needs time,Synthetic call record.,2026-09-26
+1576,735,,Note,2026-10-01,Internal note,Synthetic note record.,
+1577,153,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1578,372,400.0,Demo,2026-09-24,Demo completed,Synthetic demo record.,2026-10-07
+1579,29,234.0,Email Sent,2026-05-30,Sent,Synthetic email sent record.,
+1580,675,58.0,Email Opened,2026-08-02,Opened,Synthetic email opened record.,
+1581,509,60.0,Meeting,2026-08-22,Rescheduled,Synthetic meeting record.,2026-08-31
+1582,347,,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-09
+1583,94,,Meeting,2026-10-04,Discovery completed,Synthetic meeting record.,
+1584,306,,Meeting,2026-09-21,Discovery completed,Synthetic meeting record.,
+1585,351,,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-03
+1586,83,309.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1587,46,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1588,418,393.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1589,373,80.0,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-07
+1590,347,,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,
+1591,57,,Meeting,2026-09-03,Stakeholders aligned,Synthetic meeting record.,2026-09-05
+1592,426,186.0,Call,2026-08-28,Left voicemail,Synthetic call record.,2026-09-05
+1593,735,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1594,542,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1595,215,31.0,Email Replied,2026-10-03,Replied - asked for details,Synthetic email replied record.,2026-10-07
+1596,95,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1597,182,,Meeting,2026-09-29,Stakeholders aligned,Synthetic meeting record.,
+1598,707,67.0,Call,2026-10-01,Connected - positive,Synthetic call record.,2026-10-11
+1599,396,227.0,Note,2026-05-06,Internal note,Synthetic note record.,
+1600,565,,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1601,550,,Meeting,2026-03-09,Rescheduled,Synthetic meeting record.,
+1602,184,,Call,2026-08-15,Connected - needs time,Synthetic call record.,
+1603,676,12.0,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-05
+1604,266,50.0,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,
+1605,621,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1606,647,,Call,2026-09-28,No answer,Synthetic call record.,2026-10-11
+1607,268,,Meeting,2026-09-28,Stakeholders aligned,Synthetic meeting record.,2026-10-11
+1608,372,400.0,Call,2026-09-29,No answer,Synthetic call record.,
+1609,545,193.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1610,328,260.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+1611,724,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1612,90,270.0,Email Opened,2026-08-23,Opened,Synthetic email opened record.,
+1613,398,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1614,696,91.0,Meeting,2026-10-04,Demo completed,Synthetic meeting record.,2026-10-12
+1615,230,,Call,2026-09-30,Connected - needs time,Synthetic call record.,2026-10-09
+1616,81,284.0,Email Replied,2026-09-29,Replied - interested,Synthetic email replied record.,
+1617,167,,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-10
+1618,750,,Call,2026-10-01,Connected - needs time,Synthetic call record.,2026-10-06
+1619,707,67.0,Meeting,2026-10-01,Demo completed,Synthetic meeting record.,
+1620,542,,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,2026-10-17
+1621,158,,Call,2026-09-21,Connected - positive,Synthetic call record.,2026-10-01
+1622,371,,Demo,2026-09-27,Demo completed,Synthetic demo record.,
+1623,701,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1624,64,22.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1625,626,95.0,Note,2026-09-24,Internal note,Synthetic note record.,
+1626,676,12.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+1627,32,326.0,Meeting,2026-10-02,Discovery completed,Synthetic meeting record.,2026-10-14
+1628,521,,Meeting,2026-09-29,Demo completed,Synthetic meeting record.,
+1629,155,,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,2026-10-06
+1630,509,60.0,Email Sent,2026-09-11,Sent,Synthetic email sent record.,
+1631,80,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1632,696,91.0,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,
+1633,12,362.0,Meeting,2026-09-30,Discovery completed,Synthetic meeting record.,
+1634,23,27.0,Demo,2026-08-05,Demo completed,Synthetic demo record.,
+1635,556,8.0,Email Sent,2026-04-30,Sent,Synthetic email sent record.,
+1636,494,336.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1637,158,,Call,2026-09-26,Left voicemail,Synthetic call record.,2026-10-01
+1638,391,,Call,2026-10-04,Connected - needs time,Synthetic call record.,2026-10-06
+1639,84,,Call,2026-09-29,Left voicemail,Synthetic call record.,2026-10-03
+1640,121,,Meeting,2026-10-05,Rescheduled,Synthetic meeting record.,2026-10-18
+1641,599,14.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,
+1642,634,221.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1643,108,378.0,Call,2026-10-02,Connected - needs time,Synthetic call record.,2026-10-12
+1644,1,82.0,Email Replied,2026-09-22,Replied - interested,Synthetic email replied record.,
+1645,598,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1646,313,149.0,Call,2026-10-05,Left voicemail,Synthetic call record.,2026-10-07
+1647,31,219.0,Meeting,2026-09-29,Discovery completed,Synthetic meeting record.,
+1648,581,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1649,277,178.0,Call,2026-10-05,No answer,Synthetic call record.,2026-10-08
+1650,480,,Note,2026-03-09,Internal note,Synthetic note record.,
+1651,680,,Call,2026-09-27,Connected - needs time,Synthetic call record.,
+1652,533,176.0,Meeting,2026-09-25,Stakeholders aligned,Synthetic meeting record.,
+1653,397,295.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,2026-10-13
+1654,94,,Demo,2026-10-02,Demo completed,Synthetic demo record.,
+1655,103,285.0,Meeting,2026-10-05,Stakeholders aligned,Synthetic meeting record.,
+1656,178,313.0,Call,2026-08-22,Connected - needs time,Synthetic call record.,
+1657,542,,Note,2026-09-25,Internal note,Synthetic note record.,
+1658,123,39.0,Email Sent,2026-06-24,Sent,Synthetic email sent record.,
+1659,630,325.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1660,683,48.0,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-10
+1661,392,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1662,190,113.0,Email Replied,2026-10-05,Replied - asked for details,Synthetic email replied record.,2026-10-15
+1663,591,266.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1664,153,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1665,376,374.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1666,489,361.0,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-13
+1667,261,138.0,Meeting,2026-10-01,Discovery completed,Synthetic meeting record.,
+1668,267,,Note,2026-06-18,Internal note,Synthetic note record.,
+1669,50,,Meeting,2026-09-26,Stakeholders aligned,Synthetic meeting record.,
+1670,316,396.0,Call,2026-08-20,Left voicemail,Synthetic call record.,
+1671,436,239.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1672,254,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1673,623,389.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1674,497,,Call,2026-10-04,Connected - positive,Synthetic call record.,
+1675,97,,Email Sent,2026-08-21,Sent,Synthetic email sent record.,
+1676,707,67.0,Meeting,2026-09-23,Rescheduled,Synthetic meeting record.,
+1677,348,,Email Opened,2026-02-15,Opened,Synthetic email opened record.,
+1678,152,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1679,162,321.0,Call,2026-10-03,Connected - positive,Synthetic call record.,2026-10-17
+1680,347,,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,
+1681,486,30.0,Email Opened,2026-09-30,Opened,Synthetic email opened record.,
+1682,707,67.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1683,462,,Email Opened,2026-06-30,Opened,Synthetic email opened record.,
+1684,19,335.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1685,31,219.0,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-11
+1686,621,,Note,2026-10-01,Internal note,Synthetic note record.,
+1687,610,123.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1688,1,82.0,Email Replied,2026-09-27,Replied - asked for details,Synthetic email replied record.,2026-10-07
+1689,371,,Call,2026-10-01,Connected - positive,Synthetic call record.,2026-10-07
+1690,310,,Email Opened,2026-08-15,Opened,Synthetic email opened record.,
+1691,313,149.0,Demo,2026-10-01,Demo completed,Synthetic demo record.,2026-10-09
+1692,252,283.0,Email Sent,2026-08-06,Sent,Synthetic email sent record.,
+1693,732,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1694,724,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1695,100,128.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1696,523,279.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1697,249,357.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1698,503,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1699,650,232.0,Call,2026-09-21,No answer,Synthetic call record.,
+1700,451,,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-08
+1701,212,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+1702,569,75.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1703,606,,Call,2026-07-19,Left voicemail,Synthetic call record.,
+1704,418,393.0,Call,2026-09-23,No answer,Synthetic call record.,
+1705,190,113.0,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1706,668,64.0,Call,2026-10-01,Connected - needs time,Synthetic call record.,
+1707,107,291.0,Call,2026-09-30,Left voicemail,Synthetic call record.,2026-10-13
+1708,549,,Note,2026-06-16,Internal note,Synthetic note record.,
+1709,72,142.0,Demo,2026-10-04,Asked for pricing,Synthetic demo record.,
+1710,92,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1711,580,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1712,133,,Email Opened,2026-03-08,Opened,Synthetic email opened record.,
+1713,612,,Demo,2026-09-19,Demo completed,Synthetic demo record.,2026-09-24
+1714,31,219.0,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-02
+1715,549,,Call,2026-06-13,Connected - positive,Synthetic call record.,
+1716,103,285.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1717,138,318.0,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,
+1718,131,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1719,725,320.0,Demo,2026-10-04,Demo completed,Synthetic demo record.,
+1720,183,,Call,2026-09-30,No answer,Synthetic call record.,2026-10-13
+1721,292,,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1722,703,259.0,Note,2026-10-05,Internal note,Synthetic note record.,
+1723,676,12.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1724,20,11.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1725,125,,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1726,11,,Call,2026-10-02,Left voicemail,Synthetic call record.,
+1727,375,214.0,Demo,2026-09-23,Demo completed,Synthetic demo record.,
+1728,409,,Note,2026-09-21,Internal note,Synthetic note record.,
+1729,535,338.0,Demo,2026-09-26,Demo completed,Synthetic demo record.,2026-10-07
+1730,109,,Call,2026-09-23,Left voicemail,Synthetic call record.,
+1731,328,260.0,Call,2026-10-04,No answer,Synthetic call record.,2026-10-06
+1732,141,69.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1733,712,256.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,
+1734,311,247.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,2026-10-17
+1735,135,,Call,2026-10-03,Connected - needs time,Synthetic call record.,2026-10-17
+1736,4,108.0,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1737,152,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1738,153,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1739,47,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1740,598,,Note,2026-09-30,Internal note,Synthetic note record.,
+1741,328,260.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,
+1742,572,,Email Opened,2026-07-17,Opened,Synthetic email opened record.,
+1743,120,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1744,52,282.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1745,626,95.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1746,542,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1747,401,292.0,Demo,2026-10-04,Demo completed,Synthetic demo record.,
+1748,64,22.0,Meeting,2026-10-03,Stakeholders aligned,Synthetic meeting record.,2026-10-05
+1749,40,,Demo,2026-09-22,Asked for pricing,Synthetic demo record.,2026-09-28
+1750,557,363.0,Note,2026-09-22,Internal note,Synthetic note record.,
+1751,229,68.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1752,696,91.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,2026-10-09
+1753,109,,Email Replied,2026-09-25,Replied - interested,Synthetic email replied record.,2026-10-05
+1754,125,,Call,2026-09-30,No answer,Synthetic call record.,
+1755,279,84.0,Email Opened,2026-07-06,Opened,Synthetic email opened record.,
+1756,712,256.0,Call,2026-09-28,Connected - positive,Synthetic call record.,2026-10-12
+1757,608,327.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1758,83,309.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1759,737,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1760,502,,Call,2026-10-04,No answer,Synthetic call record.,2026-10-13
+1761,521,,Call,2026-10-02,No answer,Synthetic call record.,2026-10-13
+1762,523,279.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1763,370,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1764,711,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1765,411,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1766,655,274.0,Email Sent,2026-08-30,Sent,Synthetic email sent record.,
+1767,274,,Call,2026-07-15,No answer,Synthetic call record.,
+1768,436,239.0,Note,2026-09-22,Internal note,Synthetic note record.,
+1769,565,,Call,2026-10-05,Connected - needs time,Synthetic call record.,
+1770,732,,Email Opened,2026-10-01,Opened,Synthetic email opened record.,
+1771,217,,Email Replied,2026-05-26,Replied - asked for details,Synthetic email replied record.,
+1772,5,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1773,5,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-10
+1774,50,,Demo,2026-09-23,Asked for pricing,Synthetic demo record.,2026-10-05
+1775,371,,Meeting,2026-09-26,Demo completed,Synthetic meeting record.,2026-10-04
+1776,111,5.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1777,338,,Email Replied,2026-09-04,Replied - interested,Synthetic email replied record.,
+1778,691,,Email Sent,2026-09-26,Sent,Synthetic email sent record.,
+1779,54,,Email Opened,2026-06-25,Opened,Synthetic email opened record.,
+1780,103,285.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,2026-10-09
+1781,436,239.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1782,153,,Call,2026-10-03,Left voicemail,Synthetic call record.,2026-10-15
+1783,162,321.0,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,
+1784,120,,Meeting,2026-09-26,Demo completed,Synthetic meeting record.,
+1785,31,219.0,Email Replied,2026-10-04,Replied - interested,Synthetic email replied record.,2026-10-14
+1786,483,,Email Opened,2026-08-31,Opened,Synthetic email opened record.,
+1787,138,318.0,Meeting,2026-10-02,Discovery completed,Synthetic meeting record.,
+1788,31,219.0,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1789,121,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1790,598,,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-03
+1791,401,292.0,Call,2026-09-29,No answer,Synthetic call record.,
+1792,680,,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,2026-10-11
+1793,411,,Email Replied,2026-10-05,Replied - interested,Synthetic email replied record.,
+1794,641,72.0,Meeting,2026-10-05,Rescheduled,Synthetic meeting record.,2026-10-15
+1795,329,135.0,Demo,2026-10-02,Asked for pricing,Synthetic demo record.,2026-10-16
+1796,474,,Note,2026-07-25,Internal note,Synthetic note record.,
+1797,570,,Meeting,2026-09-23,Demo completed,Synthetic meeting record.,2026-10-06
+1798,152,,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1799,539,,Meeting,2026-09-29,Demo completed,Synthetic meeting record.,2026-10-04
+1800,8,385.0,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1801,393,,Email Opened,2026-08-09,Opened,Synthetic email opened record.,
+1802,705,324.0,Email Replied,2026-09-24,Replied - interested,Synthetic email replied record.,
+1803,633,,Call,2026-09-29,No answer,Synthetic call record.,2026-10-10
+1804,423,125.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1805,80,,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1806,666,302.0,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1807,533,176.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1808,570,,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1809,128,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1810,233,,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,
+1811,407,130.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1812,696,91.0,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1813,397,295.0,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+1814,656,,Demo,2026-08-21,Demo completed,Synthetic demo record.,
+1815,673,306.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1816,298,,Email Replied,2026-09-14,Replied - asked for details,Synthetic email replied record.,
+1817,121,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1818,409,,Email Sent,2026-09-23,Sent,Synthetic email sent record.,
+1819,131,,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,2026-10-05
+1820,72,142.0,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-11
+1821,391,,Meeting,2026-09-30,Discovery completed,Synthetic meeting record.,
+1822,296,322.0,Email Replied,2026-09-28,Replied - asked for details,Synthetic email replied record.,
+1823,577,,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-12
+1824,653,300.0,Meeting,2026-06-01,Demo completed,Synthetic meeting record.,
+1825,351,,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-08
+1826,251,89.0,Call,2026-09-20,Left voicemail,Synthetic call record.,2026-10-02
+1827,122,,Email Sent,2026-04-16,Sent,Synthetic email sent record.,
+1828,531,86.0,Call,2026-09-30,Left voicemail,Synthetic call record.,
+1829,581,,Demo,2026-09-26,Demo completed,Synthetic demo record.,2026-09-29
+1830,230,,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,2026-10-13
+1831,244,9.0,Email Opened,2026-05-04,Opened,Synthetic email opened record.,
+1832,461,349.0,Email Replied,2026-09-23,Replied - interested,Synthetic email replied record.,2026-09-27
+1833,334,328.0,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,2026-10-15
+1834,42,,Call,2026-09-28,Connected - positive,Synthetic call record.,2026-09-30
+1835,409,,Email Replied,2026-09-26,Replied - asked for details,Synthetic email replied record.,
+1836,181,242.0,Call,2026-04-13,No answer,Synthetic call record.,
+1837,296,322.0,Meeting,2026-10-02,Stakeholders aligned,Synthetic meeting record.,
+1838,81,284.0,Email Opened,2026-06-03,Opened,Synthetic email opened record.,
+1839,387,98.0,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,2026-10-16
+1840,749,,Meeting,2026-10-01,Stakeholders aligned,Synthetic meeting record.,2026-10-07
+1841,227,222.0,Call,2026-09-25,Connected - positive,Synthetic call record.,
+1842,233,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1843,115,,Note,2026-10-03,Internal note,Synthetic note record.,
+1844,292,,Call,2026-10-01,Connected - positive,Synthetic call record.,
+1845,644,218.0,Call,2026-10-01,Connected - positive,Synthetic call record.,2026-10-11
+1846,587,,Call,2026-10-05,Connected - needs time,Synthetic call record.,2026-10-15
+1847,666,302.0,Email Replied,2026-09-30,Replied - interested,Synthetic email replied record.,
+1848,457,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,
+1849,409,,Note,2026-09-29,Internal note,Synthetic note record.,
+1850,7,,Note,2026-09-21,Internal note,Synthetic note record.,
+1851,692,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1852,508,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1853,72,142.0,Email Sent,2026-10-02,Sent,Synthetic email sent record.,
+1854,284,337.0,Email Opened,2026-09-27,Opened,Synthetic email opened record.,
+1855,634,221.0,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,2026-10-13
+1856,692,,Email Sent,2026-09-21,Sent,Synthetic email sent record.,
+1857,392,,Email Opened,2026-10-03,Opened,Synthetic email opened record.,
+1858,19,335.0,Email Opened,2026-09-29,Opened,Synthetic email opened record.,
+1859,32,326.0,Email Replied,2026-10-01,Replied - interested,Synthetic email replied record.,
+1860,443,,Email Sent,2026-08-06,Sent,Synthetic email sent record.,
+1861,190,113.0,Call,2026-09-29,No answer,Synthetic call record.,
+1862,115,,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1863,82,271.0,Demo,2026-09-29,Demo completed,Synthetic demo record.,2026-10-07
+1864,127,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1865,234,49.0,Call,2026-09-21,Left voicemail,Synthetic call record.,
+1866,607,243.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1867,215,31.0,Meeting,2026-09-25,Rescheduled,Synthetic meeting record.,2026-09-30
+1868,233,,Demo,2026-10-04,Demo completed,Synthetic demo record.,
+1869,225,304.0,Note,2026-10-04,Internal note,Synthetic note record.,
+1870,235,,Email Sent,2026-07-08,Sent,Synthetic email sent record.,
+1871,531,86.0,Meeting,2026-10-05,Demo completed,Synthetic meeting record.,2026-10-17
+1872,711,,Demo,2026-09-21,Asked for pricing,Synthetic demo record.,
+1873,166,205.0,Note,2026-09-25,Internal note,Synthetic note record.,
+1874,110,175.0,Call,2026-09-27,No answer,Synthetic call record.,
+1875,411,,Call,2026-09-30,No answer,Synthetic call record.,2026-10-11
+1876,117,263.0,Meeting,2026-10-03,Discovery completed,Synthetic meeting record.,2026-10-11
+1877,734,,Email Replied,2026-08-25,Replied - asked for details,Synthetic email replied record.,
+1878,45,,Note,2026-08-23,Internal note,Synthetic note record.,
+1879,265,159.0,Email Replied,2026-05-26,Replied - asked for details,Synthetic email replied record.,
+1880,186,170.0,Meeting,2026-09-30,Stakeholders aligned,Synthetic meeting record.,2026-10-04
+1881,328,260.0,Demo,2026-10-04,Demo completed,Synthetic demo record.,
+1882,254,,Meeting,2026-10-01,Rescheduled,Synthetic meeting record.,
+1883,135,,Demo,2026-10-01,Demo completed,Synthetic demo record.,
+1884,236,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-03
+1885,392,,Email Sent,2026-09-29,Sent,Synthetic email sent record.,
+1886,517,,Demo,2026-09-28,Demo completed,Synthetic demo record.,2026-10-09
+1887,314,329.0,Email Replied,2026-09-03,Replied - interested,Synthetic email replied record.,2026-09-07
+1888,251,89.0,Call,2026-09-05,Left voicemail,Synthetic call record.,2026-09-11
+1889,126,100.0,Email Sent,2026-08-26,Sent,Synthetic email sent record.,
+1890,521,,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,
+1891,555,92.0,Meeting,2026-03-12,Discovery completed,Synthetic meeting record.,
+1892,72,142.0,Call,2026-09-30,No answer,Synthetic call record.,2026-10-06
+1893,663,,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1894,330,59.0,Call,2026-08-25,No answer,Synthetic call record.,2026-08-28
+1895,158,,Email Opened,2026-09-22,Opened,Synthetic email opened record.,
+1896,676,12.0,Demo,2026-10-01,Demo completed,Synthetic demo record.,2026-10-12
+1897,520,119.0,Call,2026-09-23,Connected - needs time,Synthetic call record.,2026-10-02
+1898,424,6.0,Note,2026-09-22,Internal note,Synthetic note record.,
+1899,115,,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1900,495,,Note,2026-07-23,Internal note,Synthetic note record.,
+1901,487,,Email Replied,2026-09-29,Replied - asked for details,Synthetic email replied record.,
+1902,457,,Call,2026-09-28,No answer,Synthetic call record.,2026-10-08
+1903,633,,Email Replied,2026-09-21,Replied - asked for details,Synthetic email replied record.,
+1904,577,,Demo,2026-10-03,Demo completed,Synthetic demo record.,
+1905,124,,Email Replied,2026-09-26,Replied - interested,Synthetic email replied record.,2026-10-09
+1906,630,325.0,Call,2026-09-27,Left voicemail,Synthetic call record.,
+1907,683,48.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,
+1908,692,,Note,2026-10-01,Internal note,Synthetic note record.,
+1909,603,352.0,Email Replied,2026-08-12,Replied - interested,Synthetic email replied record.,
+1910,389,367.0,Email Sent,2026-09-27,Sent,Synthetic email sent record.,
+1911,552,77.0,Call,2026-10-02,Connected - positive,Synthetic call record.,2026-10-10
+1912,593,198.0,Note,2026-09-26,Internal note,Synthetic note record.,
+1913,640,,Email Opened,2026-10-04,Opened,Synthetic email opened record.,
+1914,424,6.0,Meeting,2026-09-24,Demo completed,Synthetic meeting record.,
+1915,640,,Email Replied,2026-09-28,Replied - interested,Synthetic email replied record.,2026-10-05
+1916,412,390.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1917,155,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+1918,567,331.0,Demo,2026-09-28,Asked for pricing,Synthetic demo record.,2026-10-10
+1919,134,,Email Opened,2026-09-25,Opened,Synthetic email opened record.,
+1920,84,,Meeting,2026-10-02,Demo completed,Synthetic meeting record.,2026-10-07
+1921,650,232.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1922,249,357.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1923,521,,Demo,2026-09-30,Demo completed,Synthetic demo record.,
+1924,31,219.0,Demo,2026-10-05,Asked for pricing,Synthetic demo record.,2026-10-18
+1925,138,318.0,Demo,2026-09-30,Asked for pricing,Synthetic demo record.,
+1926,138,318.0,Demo,2026-10-03,Asked for pricing,Synthetic demo record.,2026-10-16
+1927,376,374.0,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1928,610,123.0,Email Sent,2026-09-24,Sent,Synthetic email sent record.,
+1929,403,,Note,2026-09-22,Internal note,Synthetic note record.,
+1930,64,22.0,Meeting,2026-09-28,Rescheduled,Synthetic meeting record.,2026-10-05
+1931,630,325.0,Email Replied,2026-09-26,Replied - interested,Synthetic email replied record.,2026-10-03
+1932,72,142.0,Email Replied,2026-10-02,Replied - interested,Synthetic email replied record.,
+1933,492,,Note,2026-01-18,Internal note,Synthetic note record.,
+1934,361,,Email Sent,2026-09-06,Sent,Synthetic email sent record.,
+1935,403,,Note,2026-09-29,Internal note,Synthetic note record.,
+1936,299,143.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1937,387,98.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+1938,51,,Meeting,2026-10-04,Stakeholders aligned,Synthetic meeting record.,
+1939,469,,Email Opened,2026-10-02,Opened,Synthetic email opened record.,
+1940,299,143.0,Note,2026-10-05,Internal note,Synthetic note record.,
+1941,25,,Email Sent,2026-10-05,Sent,Synthetic email sent record.,
+1942,4,108.0,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1943,94,,Email Replied,2026-10-04,Replied - asked for details,Synthetic email replied record.,2026-10-10
+1944,82,271.0,Meeting,2026-09-30,Rescheduled,Synthetic meeting record.,
+1945,423,125.0,Email Replied,2026-09-29,Replied - interested,Synthetic email replied record.,2026-10-13
+1946,419,,Email Replied,2026-07-09,Replied - asked for details,Synthetic email replied record.,
+1947,706,,Email Replied,2026-09-27,Replied - asked for details,Synthetic email replied record.,2026-10-04
+1948,80,,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1949,400,311.0,Demo,2026-07-28,Demo completed,Synthetic demo record.,
+1950,340,314.0,Call,2026-09-30,Connected - positive,Synthetic call record.,2026-10-10
+1951,601,55.0,Demo,2026-09-22,Demo completed,Synthetic demo record.,2026-10-05
+1952,138,318.0,Call,2026-10-04,Left voicemail,Synthetic call record.,2026-10-13
+1953,487,,Demo,2026-09-30,Demo completed,Synthetic demo record.,2026-10-05
+1954,296,322.0,Email Sent,2026-09-28,Sent,Synthetic email sent record.,
+1955,66,,Email Sent,2026-04-05,Sent,Synthetic email sent record.,
+1956,458,257.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1957,726,,Call,2026-10-03,No answer,Synthetic call record.,2026-10-10
+1958,601,55.0,Email Opened,2026-09-21,Opened,Synthetic email opened record.,
+1959,659,,Note,2026-10-02,Internal note,Synthetic note record.,
+1960,550,,Email Replied,2026-07-06,Replied - interested,Synthetic email replied record.,
+1961,3,,Email Opened,2026-09-23,Opened,Synthetic email opened record.,
+1962,37,,Email Replied,2026-04-12,Replied - asked for details,Synthetic email replied record.,
+1963,72,142.0,Email Replied,2026-10-03,Replied - interested,Synthetic email replied record.,
+1964,644,218.0,Call,2026-10-05,No answer,Synthetic call record.,
+1965,71,116.0,Meeting,2026-09-17,Discovery completed,Synthetic meeting record.,2026-09-26
+1966,432,,Call,2026-09-24,No answer,Synthetic call record.,2026-10-02
+1967,662,,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1968,121,,Note,2026-10-04,Internal note,Synthetic note record.,
+1969,607,243.0,Email Sent,2026-10-01,Sent,Synthetic email sent record.,
+1970,120,,Email Sent,2026-10-04,Sent,Synthetic email sent record.,
+1971,21,110.0,Call,2026-08-18,Connected - positive,Synthetic call record.,
+1972,516,,Email Sent,2026-09-22,Sent,Synthetic email sent record.,
+1973,107,291.0,Meeting,2026-09-28,Discovery completed,Synthetic meeting record.,2026-10-02
+1974,19,335.0,Meeting,2026-09-23,Rescheduled,Synthetic meeting record.,2026-10-07
+1975,545,193.0,Email Opened,2026-09-26,Opened,Synthetic email opened record.,
+1976,720,312.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1977,446,,Email Sent,2026-09-20,Sent,Synthetic email sent record.,
+1978,168,,Note,2026-09-30,Internal note,Synthetic note record.,
+1979,14,379.0,Call,2026-08-11,Connected - positive,Synthetic call record.,
+1980,130,,Call,2026-09-18,Connected - positive,Synthetic call record.,2026-09-21
+1981,138,318.0,Meeting,2026-10-05,Rescheduled,Synthetic meeting record.,2026-10-08
+1982,371,,Email Sent,2026-10-03,Sent,Synthetic email sent record.,
+1983,227,222.0,Email Opened,2026-09-24,Opened,Synthetic email opened record.,
+1984,750,,Call,2026-10-04,Left voicemail,Synthetic call record.,2026-10-07
+1985,640,,Email Opened,2026-09-28,Opened,Synthetic email opened record.,
+1986,297,339.0,Meeting,2026-09-07,Demo completed,Synthetic meeting record.,2026-09-21
+1987,126,100.0,Call,2026-09-24,Connected - needs time,Synthetic call record.,2026-10-01
+1988,150,,Email Opened,2026-05-08,Opened,Synthetic email opened record.,
+1989,103,285.0,Email Replied,2026-10-01,Replied - asked for details,Synthetic email replied record.,
+1990,673,306.0,Email Opened,2026-10-05,Opened,Synthetic email opened record.,
+1991,311,247.0,Email Sent,2026-09-30,Sent,Synthetic email sent record.,
+1992,352,,Call,2026-09-15,No answer,Synthetic call record.,
+1993,545,193.0,Email Sent,2026-09-25,Sent,Synthetic email sent record.,
+1994,634,221.0,Call,2026-09-26,Connected - needs time,Synthetic call record.,2026-09-28
+1995,78,146.0,Note,2026-07-16,Internal note,Synthetic note record.,
+1996,118,237.0,Note,2026-07-28,Internal note,Synthetic note record.,
+1997,558,,Note,2026-07-29,Internal note,Synthetic note record.,
+1998,358,,Meeting,2026-06-18,Rescheduled,Synthetic meeting record.,
+1999,90,270.0,Note,2026-08-18,Internal note,Synthetic note record.,
+2000,373,80.0,Call,2026-10-01,Connected - needs time,Synthetic call record.,2026-10-14

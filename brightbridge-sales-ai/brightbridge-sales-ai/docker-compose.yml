@@ -1,0 +1,13 @@
+services:
+  brightbridge:
+    build: .
+    ports:
+      - "7860:7860"
+    env_file:
+      - .env          # copy .env.example to .env first
+    environment:
+      - DATA_MODE=${DATA_MODE:-demo}
+    volumes:
+      - brightbridge_data:/home/user/app/data   # keeps SQLite files between restarts
+volumes:
+  brightbridge_data:

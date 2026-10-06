@@ -1,0 +1,401 @@
+id,lead_id,name,stage,value_inr,expected_close_date,created_at,closed_at,win_probability
+1,624,CRM Setup & Automation - Vista Hotels Co,Qualification,238000.0,2026-09-28,2026-09-30,,26.0
+2,496,Process Consulting - Sunrise Learning,Closed Won,53000.0,2026-07-01,2026-05-09,2026-07-01,100.0
+3,406,Customer Onboarding Workflow - Summit Clinics Group,Qualification,40000.0,2026-11-08,2026-01-23,,24.0
+4,335,Reporting Dashboard Build - Lotus Tech Solutions,Prospecting,262000.0,2026-11-07,2026-03-07,,19.0
+5,111,Customer Onboarding Workflow - Prime Stays,Closed Won,123000.0,2026-10-05,2026-09-10,2026-10-05,100.0
+6,424,Customer Onboarding Workflow - Vista Edu Services,Proposal,138000.0,2026-11-05,2026-02-13,,49.0
+7,91,Invoice Automation - Apex Freight Lines,Negotiation,391000.0,2026-11-14,2026-05-19,,77.0
+8,556,Invoice Automation - Harbor Agro,Prospecting,269000.0,2026-10-16,2026-02-16,,7.0
+9,244,CRM Setup & Automation - Metro Realty,Negotiation,914000.0,2026-12-16,2026-04-25,,69.0
+10,562,Invoice Automation - Crest Retail,Closed Lost,779000.0,2026-10-05,2026-09-03,2026-10-05,0.0
+11,20,Process Consulting - Kite Components,Closed Lost,776000.0,2026-08-16,2026-07-31,2026-08-16,0.0
+12,676,Invoice Automation - Metro Agro,Closed Won,528000.0,2026-10-05,2026-09-16,2026-10-05,100.0
+13,524,Reporting Dashboard Build - Granite Tech Solutions,Qualification,691000.0,2026-09-27,2026-09-07,,32.0
+14,599,Workflow Automation - Amber Cargo Systems,Qualification,817000.0,2026-10-27,2026-09-18,,24.0
+15,322,Customer Onboarding Workflow - Urban Softworks,Closed Lost,225000.0,2026-08-21,2026-07-06,2026-08-21,0.0
+16,307,CRM Setup & Automation - Harbor Finserv India,Prospecting,457000.0,2026-10-02,2026-07-10,,17.0
+17,226,Reporting Dashboard Build - Delta Estates,Prospecting,247000.0,2026-11-04,2026-09-01,,11.0
+18,554,Workflow Automation - Summit Fabricators,Closed Lost,495000.0,2026-06-20,2026-05-22,2026-06-20,0.0
+19,532,Workflow Automation - Amber Logistics,Qualification,617000.0,2026-11-28,2026-07-16,,34.0
+20,468,Workflow Automation - Metro Capital,Qualification,626000.0,2026-10-03,2026-04-21,,37.0
+21,85,CRM Setup & Automation - Vertex Agro,Proposal,42000.0,2026-12-09,2026-06-03,,50.0
+22,64,Workflow Automation - Metro Softworks,Closed Won,262000.0,2026-10-05,2026-07-28,2026-10-05,100.0
+23,293,Customer Onboarding Workflow - Anchor Diagnostics,Closed Won,118000.0,2026-07-23,2026-06-18,2026-07-23,100.0
+24,681,Customer Onboarding Workflow - Swift Agro,Qualification,857000.0,2026-09-25,2026-09-16,,36.0
+25,35,Invoice Automation - Urban Softworks,Negotiation,39000.0,2026-11-25,2026-08-06,,75.0
+26,537,Process Consulting - Nova Advisors,Qualification,366000.0,2026-10-22,2026-03-20,,38.0
+27,23,Customer Onboarding Workflow - Falcon Industries,Prospecting,220000.0,2026-12-23,2026-08-26,,10.0
+28,129,Sales Ops Automation - Zen Realty,Prospecting,388000.0,2026-11-28,2026-05-10,,17.0
+29,165,Process Consulting - Swift Clinics,Closed Lost,567000.0,2026-07-14,2026-05-20,2026-07-14,0.0
+30,486,Invoice Automation - Pioneer Softworks,Qualification,53000.0,2026-10-12,2026-07-10,,22.0
+31,215,Customer Onboarding Workflow - Granite Learning,Proposal,119000.0,2026-12-23,2026-09-26,,62.0
+32,528,Sales Ops Automation - Evergreen Fabricators,Proposal,78000.0,2026-12-19,2026-08-20,,61.0
+33,553,Workflow Automation - Summit Components,Prospecting,315000.0,2027-01-01,2026-07-28,,7.0
+34,147,Customer Onboarding Workflow - Saffron Components,Proposal,512000.0,2026-12-29,2026-06-24,,47.0
+35,353,Customer Onboarding Workflow - Saffron Hotels,Qualification,159000.0,2026-12-12,2026-09-24,,31.0
+36,687,Process Consulting - Vista Academy,Closed Won,713000.0,2026-06-21,2026-06-03,2026-06-21,100.0
+37,700,Workflow Automation - Evergreen Tech Solutions Pvt Ltd,Proposal,41000.0,2026-12-15,2026-06-19,,59.0
+38,159,Sales Ops Automation - Pioneer Agro,Closed Won,125000.0,2026-05-10,2026-02-13,2026-05-10,100.0
+39,123,CRM Setup & Automation - Pioneer Estates Pvt Ltd,Negotiation,79000.0,2026-12-29,2026-07-03,,69.0
+40,315,Customer Onboarding Workflow - Anchor Diagnostics,Qualification,939000.0,2026-10-30,2026-08-12,,28.0
+41,349,Sales Ops Automation - Vertex Diagnostics,Negotiation,985000.0,2026-09-25,2026-05-24,,80.0
+42,176,Workflow Automation - Anchor Diagnostics,Negotiation,320000.0,2026-11-16,2026-09-15,,75.0
+43,140,Sales Ops Automation - Lotus Freight Lines,Negotiation,586000.0,2026-12-31,2026-04-12,,68.0
+44,207,Reporting Dashboard Build - Falcon Realty,Qualification,435000.0,2026-11-04,2026-09-06,,22.0
+45,294,Workflow Automation - Cobalt Stays,Qualification,54000.0,2026-10-23,2026-08-20,,35.0
+46,527,Sales Ops Automation - Cobalt Advisors,Closed Lost,116000.0,2026-07-14,2026-06-22,2026-07-14,0.0
+47,256,Customer Onboarding Workflow - Orbit Agritech,Negotiation,601000.0,2026-09-28,2026-09-16,,77.0
+48,683,Customer Onboarding Workflow - Indigo Developers,Qualification,560000.0,2026-11-07,2026-08-06,,23.0
+49,234,Customer Onboarding Workflow - Orbit Healthcare,Qualification,84000.0,2026-12-13,2026-06-01,,36.0
+50,266,Reporting Dashboard Build - Swift Finserv,Prospecting,66000.0,2026-10-02,2026-02-14,,8.0
+51,359,Process Consulting - Sunrise Realty,Qualification,105000.0,2026-11-20,2026-08-28,,23.0
+52,402,Process Consulting - Metro Realty,Negotiation,66000.0,2026-10-02,2026-03-31,,68.0
+53,609,CRM Setup & Automation - Horizon Digital Systems,Closed Won,80000.0,2026-05-27,2026-03-22,2026-05-27,100.0
+54,685,Invoice Automation - Falcon Industries,Closed Won,591000.0,2026-10-05,2026-09-25,2026-10-05,100.0
+55,601,Workflow Automation - Indigo Healthcare,Negotiation,45000.0,2026-11-06,2026-04-10,,73.0
+56,563,Process Consulting - Saffron Capital,Prospecting,210000.0,2026-10-11,2026-08-27,,23.0
+57,342,Workflow Automation - Evergreen Cargo Systems,Proposal,549000.0,2026-10-12,2026-06-10,,48.0
+58,675,Process Consulting - Apex Healthcare,Prospecting,1008000.0,2026-12-30,2026-03-29,,18.0
+59,330,Process Consulting - Zen Retail,Negotiation,122000.0,2026-12-11,2026-07-18,,77.0
+60,509,Workflow Automation - Saffron Components,Proposal,897000.0,2026-12-20,2026-09-26,,51.0
+61,652,Customer Onboarding Workflow - Nova Cargo Systems,Qualification,408000.0,2026-10-20,2026-09-03,,28.0
+62,193,Customer Onboarding Workflow - Zen Academy,Prospecting,656000.0,2026-11-23,2026-08-25,,17.0
+63,546,Reporting Dashboard Build - Falcon Industries,Negotiation,249000.0,2026-10-15,2026-04-12,,70.0
+64,668,Sales Ops Automation - Amber Cargo Systems,Closed Won,556000.0,2026-09-23,2026-09-09,2026-09-23,100.0
+65,664,Sales Ops Automation - Saffron Developers,Qualification,641000.0,2026-10-25,2026-06-05,,37.0
+66,455,Customer Onboarding Workflow - Sunrise Realty,Closed Won,387000.0,2026-09-23,2026-08-17,2026-09-23,100.0
+67,707,Invoice Automation - Summit Retail,Closed Lost,39000.0,2026-08-13,2026-07-27,2026-08-13,0.0
+68,229,Workflow Automation - Anchor Diagnostics,Prospecting,551000.0,2026-12-08,2026-07-08,,18.0
+69,141,Process Consulting - Apex Academy,Closed Lost,171000.0,2026-09-17,2026-08-06,2026-09-17,0.0
+70,490,Workflow Automation - Pioneer Softworks,Closed Won,796000.0,2026-07-24,2026-06-15,2026-07-24,100.0
+71,164,Reporting Dashboard Build - Cobalt Fabricators,Qualification,64000.0,2026-12-20,2026-08-10,,26.0
+72,641,CRM Setup & Automation - Pioneer Developers,Negotiation,377000.0,2026-11-03,2026-08-05,,81.0
+73,272,Sales Ops Automation - Delta Digital Systems,Proposal,142000.0,2026-12-13,2026-08-25,,60.0
+74,289,Sales Ops Automation - Indigo Cargo Systems,Prospecting,135000.0,2026-10-19,2026-07-19,,19.0
+75,569,Customer Onboarding Workflow - Nova Stays,Proposal,211000.0,2026-12-31,2026-08-17,,53.0
+76,574,Customer Onboarding Workflow - Harbor Finserv,Proposal,300000.0,2026-12-14,2026-08-06,,55.0
+77,552,Customer Onboarding Workflow - Harbor Agro,Prospecting,199000.0,2027-01-03,2026-07-06,,22.0
+78,716,Process Consulting - Sunrise Learning,Negotiation,123000.0,2026-12-30,2026-08-28,,83.0
+79,438,Sales Ops Automation - Horizon Digital Systems,Proposal,116000.0,2026-11-11,2026-05-17,,63.0
+80,373,CRM Setup & Automation - Orbit Diagnostics,Proposal,566000.0,2026-11-15,2026-03-15,,48.0
+81,636,Process Consulting - Lotus Softworks,Qualification,691000.0,2026-11-14,2026-06-19,,28.0
+82,1,Invoice Automation - Evergreen Stores,Proposal,141000.0,2026-11-11,2026-03-21,,55.0
+83,192,Invoice Automation - Cobalt Diagnostics,Prospecting,251000.0,2026-11-09,2026-08-18,,14.0
+84,279,Process Consulting - Nova Advisors,Prospecting,423000.0,2026-11-19,2026-06-10,,20.0
+85,421,Reporting Dashboard Build - Delta Logistics,Closed Won,246000.0,2026-05-27,2026-04-21,2026-05-27,100.0
+86,531,Invoice Automation - Metro Agro,Qualification,373000.0,2026-11-01,2026-08-30,,38.0
+87,568,Workflow Automation - Summit Fabricators,Proposal,294000.0,2026-10-07,2026-09-01,,50.0
+88,410,Process Consulting - Indigo Industries,Proposal,294000.0,2026-11-06,2026-07-26,,55.0
+89,251,Customer Onboarding Workflow - Crest Retail,Closed Won,197000.0,2026-10-04,2026-09-03,2026-10-04,100.0
+90,639,Customer Onboarding Workflow - Granite Industries,Closed Won,50000.0,2026-07-09,2026-05-20,2026-07-09,100.0
+91,696,Reporting Dashboard Build - Metro Capital,Proposal,478000.0,2026-12-30,2026-03-08,,47.0
+92,555,Reporting Dashboard Build - Metro Industries,Negotiation,390000.0,2026-12-26,2026-07-16,,73.0
+93,449,Customer Onboarding Workflow - Summit Components,Qualification,582000.0,2026-10-05,2026-02-03,,32.0
+94,48,Process Consulting - Nova Estates,Qualification,181000.0,2026-12-05,2026-06-10,,22.0
+95,626,Customer Onboarding Workflow - Summit Clinics Group,Prospecting,295000.0,2026-09-26,2026-07-27,,22.0
+96,743,Customer Onboarding Workflow - Apex Freight Lines,Negotiation,297000.0,2026-11-18,2026-07-10,,79.0
+97,501,Customer Onboarding Workflow - Saffron Digital Systems,Closed Won,338000.0,2026-07-25,2026-04-30,2026-07-25,100.0
+98,387,Reporting Dashboard Build - Sunrise Realty,Prospecting,143000.0,2026-11-06,2026-07-21,,19.0
+99,460,Workflow Automation - Evergreen Cargo Systems,Qualification,78000.0,2026-10-19,2026-07-18,,37.0
+100,126,Workflow Automation - Delta Fabricators,Qualification,221000.0,2026-10-08,2026-06-03,,27.0
+101,669,Reporting Dashboard Build - Falcon Realty,Closed Won,41000.0,2026-09-13,2026-08-22,2026-09-13,100.0
+102,594,Workflow Automation - Urban Edu Services,Qualification,270000.0,2026-10-03,2026-06-13,,36.0
+103,602,CRM Setup & Automation - Delta Fabricators,Proposal,116000.0,2026-11-16,2026-09-25,,59.0
+104,34,Reporting Dashboard Build - Kite Hotels,Closed Lost,847000.0,2026-08-17,2026-07-26,2026-08-17,0.0
+105,702,Reporting Dashboard Build - Zen Components,Closed Lost,139000.0,2026-08-09,2026-06-17,2026-08-09,0.0
+106,278,Invoice Automation - Crest Stays,Closed Won,127000.0,2026-04-12,2026-02-18,2026-04-12,100.0
+107,102,Workflow Automation - Metro Realty,Qualification,230000.0,2026-10-13,2026-03-05,,36.0
+108,4,Reporting Dashboard Build - Indigo Industries,Closed Won,820000.0,2026-10-05,2026-09-22,2026-10-05,100.0
+109,589,Sales Ops Automation - Granite Diagnostics,Proposal,71000.0,2026-11-22,2026-09-10,,58.0
+110,21,Reporting Dashboard Build - Amber Cargo Systems,Closed Won,447000.0,2026-08-07,2026-07-02,2026-08-07,100.0
+111,646,Sales Ops Automation - Evergreen Tech Solutions Pvt Ltd,Qualification,591000.0,2026-12-18,2026-07-13,,27.0
+112,450,Sales Ops Automation - Orbit Agritech,Negotiation,42000.0,2026-10-15,2026-03-13,,75.0
+113,190,Process Consulting - Metro Retail,Proposal,210000.0,2026-11-16,2026-08-27,,50.0
+114,746,Reporting Dashboard Build - Summit Finserv,Prospecting,951000.0,2026-11-05,2026-08-08,,20.0
+115,206,Sales Ops Automation - Maple Hotels Co,Qualification,736000.0,2026-09-28,2026-06-16,,24.0
+116,71,Reporting Dashboard Build - Terra Finserv,Negotiation,408000.0,2026-11-15,2026-07-25,,73.0
+117,485,Sales Ops Automation - Apex Capital,Prospecting,82000.0,2026-10-12,2026-05-25,,17.0
+118,362,Sales Ops Automation - Kite Hotels,Closed Won,524000.0,2026-08-12,2026-05-20,2026-08-12,100.0
+119,520,CRM Setup & Automation - Evergreen Fabricators,Qualification,122000.0,2026-10-30,2026-02-18,,27.0
+120,614,Sales Ops Automation - Sunrise Clinics Group,Closed Won,114000.0,2026-10-05,2026-08-10,2026-10-05,100.0
+121,386,Process Consulting - Pioneer Agro,Proposal,49000.0,2026-10-14,2026-08-22,,61.0
+122,287,Customer Onboarding Workflow - Evergreen Cargo Systems,Qualification,787000.0,2026-12-23,2026-09-13,,23.0
+123,610,Invoice Automation - Zen Retail,Negotiation,458000.0,2026-11-20,2026-08-09,,68.0
+124,199,CRM Setup & Automation - Crest Advisors,Prospecting,212000.0,2026-11-11,2026-03-21,,14.0
+125,423,Sales Ops Automation - Cobalt Diagnostics,Prospecting,54000.0,2026-11-07,2026-02-27,,13.0
+126,693,Sales Ops Automation - Terra Edu Services,Negotiation,85000.0,2026-12-19,2026-06-20,,72.0
+127,170,Invoice Automation - Indigo Developers,Qualification,755000.0,2026-11-05,2026-03-02,,32.0
+128,100,CRM Setup & Automation - Cobalt Agro,Negotiation,840000.0,2026-11-18,2026-06-16,,70.0
+129,390,Workflow Automation - Evergreen Digital Systems,Qualification,291000.0,2026-11-15,2026-09-02,,32.0
+130,407,Workflow Automation - Apex Healthcare,Proposal,157000.0,2026-10-30,2026-05-31,,58.0
+131,163,Workflow Automation - Lotus Softworks,Prospecting,401000.0,2026-12-10,2026-06-11,,22.0
+132,643,Process Consulting - Vertex Diagnostics,Closed Won,296000.0,2026-10-03,2026-07-05,2026-10-03,100.0
+133,739,Customer Onboarding Workflow - Blue Edu Services,Closed Lost,116000.0,2026-05-09,2026-03-16,2026-05-09,0.0
+134,139,Reporting Dashboard Build - Summit Clinics,Negotiation,274000.0,2026-12-08,2026-08-27,,81.0
+135,329,Workflow Automation - Metro Softworks,Proposal,897000.0,2026-09-26,2026-09-28,,54.0
+136,611,Invoice Automation - Cobalt Agro,Negotiation,233000.0,2026-11-18,2026-07-29,,74.0
+137,467,Reporting Dashboard Build - Apex Logistics,Prospecting,328000.0,2026-10-20,2026-07-22,,11.0
+138,261,Sales Ops Automation - Orbit Diagnostics,Qualification,211000.0,2026-12-10,2026-09-11,,36.0
+139,484,Invoice Automation - Anchor Academy,Closed Won,240000.0,2026-08-12,2026-07-24,2026-08-12,100.0
+140,541,Customer Onboarding Workflow - Indigo Agritech,Closed Won,278000.0,2026-04-14,2026-03-02,2026-04-14,100.0
+141,179,Sales Ops Automation - Summit Clinics,Closed Won,166000.0,2026-04-28,2026-04-08,2026-04-28,100.0
+142,72,Reporting Dashboard Build - Cobalt Advisors,Closed Lost,434000.0,2026-09-15,2026-08-09,2026-09-15,0.0
+143,299,Sales Ops Automation - Granite Diagnostics,Negotiation,525000.0,2026-10-19,2026-09-09,,68.0
+144,286,Invoice Automation - Amber Logistics,Closed Lost,106000.0,2026-09-15,2026-06-18,2026-09-15,0.0
+145,514,Sales Ops Automation - Evergreen Tech Solutions,Closed Won,185000.0,2026-10-05,2026-08-03,2026-10-05,100.0
+146,78,Process Consulting - Vista Cargo Systems,Proposal,168000.0,2026-10-17,2026-07-08,,54.0
+147,142,Workflow Automation - Cobalt Advisors,Qualification,170000.0,2027-01-03,2026-07-07,,37.0
+148,160,Reporting Dashboard Build - Sunrise Learning,Closed Lost,413000.0,2026-06-12,2026-03-30,2026-06-12,0.0
+149,313,Customer Onboarding Workflow - Prime Stays,Proposal,136000.0,2026-11-25,2026-02-21,,47.0
+150,365,Process Consulting - Granite Industries,Proposal,265000.0,2026-10-14,2026-08-19,,52.0
+151,717,Workflow Automation - Cobalt Diagnostics,Proposal,569000.0,2026-12-05,2026-08-13,,62.0
+152,727,Workflow Automation - Maple Hotels,Qualification,163000.0,2026-10-19,2026-06-19,,22.0
+153,308,Reporting Dashboard Build - Cobalt Softworks,Closed Won,595000.0,2026-09-15,2026-07-10,2026-09-15,100.0
+154,180,Workflow Automation - Delta Cargo Systems,Closed Lost,429000.0,2026-10-05,2026-09-26,2026-10-05,0.0
+155,590,CRM Setup & Automation - Pioneer Agro,Proposal,74000.0,2026-12-06,2026-09-23,,52.0
+156,101,Sales Ops Automation - Sunrise Academy,Closed Won,329000.0,2026-08-07,2026-05-23,2026-08-07,100.0
+157,16,CRM Setup & Automation - Zen Academy Group,Negotiation,493000.0,2026-12-28,2026-09-01,,74.0
+158,112,Process Consulting - Pioneer Developers,Proposal,49000.0,2026-12-16,2026-04-01,,51.0
+159,265,Workflow Automation - Horizon Hospitality,Negotiation,234000.0,2026-12-08,2026-07-17,,72.0
+160,285,Invoice Automation - Zen Academy,Prospecting,415000.0,2026-12-09,2026-08-14,,9.0
+161,430,Sales Ops Automation - Metro Fabricators,Closed Lost,137000.0,2026-05-28,2026-04-12,2026-05-28,0.0
+162,87,Workflow Automation - Apex Edu Services,Qualification,277000.0,2026-12-30,2026-03-19,,24.0
+163,189,Sales Ops Automation - Kite Hotels,Negotiation,113000.0,2026-10-21,2026-07-05,,79.0
+164,18,Invoice Automation - Horizon Hospitality,Qualification,510000.0,2026-10-03,2026-07-06,,35.0
+165,281,Sales Ops Automation - Falcon Advisors,Proposal,382000.0,2026-11-11,2026-05-06,,52.0
+166,585,Invoice Automation - Vista Industries,Prospecting,123000.0,2026-10-09,2026-08-29,,21.0
+167,38,Customer Onboarding Workflow - Crest Farms,Closed Won,157000.0,2026-10-05,2026-09-28,2026-10-05,100.0
+168,466,Customer Onboarding Workflow - Amber Edu Services,Closed Won,422000.0,2026-07-15,2026-06-18,2026-07-15,100.0
+169,385,Workflow Automation - Orbit Advisors,Negotiation,220000.0,2026-10-10,2026-08-21,,75.0
+170,186,Workflow Automation - Lotus Components,Proposal,612000.0,2026-12-31,2026-07-21,,50.0
+171,259,Reporting Dashboard Build - Horizon Digital Systems,Prospecting,40000.0,2026-11-30,2026-09-27,,7.0
+172,448,Process Consulting - Delta Cargo Systems,Negotiation,609000.0,2026-11-07,2026-05-17,,80.0
+173,105,Reporting Dashboard Build - Apex Components,Proposal,363000.0,2026-11-10,2026-04-08,,59.0
+174,106,Customer Onboarding Workflow - Vertex Learning,Negotiation,362000.0,2026-09-25,2026-04-01,,81.0
+175,110,Sales Ops Automation - Summit Mart,Negotiation,48000.0,2026-12-01,2026-07-21,,75.0
+176,533,Invoice Automation - Blue Academy,Closed Won,323000.0,2026-08-08,2026-05-26,2026-08-08,100.0
+177,264,Sales Ops Automation - Cobalt Fabricators,Proposal,54000.0,2026-11-05,2026-06-26,,47.0
+178,277,Reporting Dashboard Build - Apex Components,Proposal,348000.0,2026-10-24,2026-09-07,,62.0
+179,428,Sales Ops Automation - Evergreen Fabricators,Closed Won,320000.0,2026-10-05,2026-08-20,2026-10-05,100.0
+180,302,Sales Ops Automation - Amber Logistics,Closed Won,400000.0,2026-09-17,2026-08-10,2026-09-17,100.0
+181,195,Customer Onboarding Workflow - Sunrise Realty,Qualification,123000.0,2026-10-06,2026-09-14,,31.0
+182,551,Sales Ops Automation - Summit Components,Negotiation,140000.0,2026-10-09,2026-04-28,,82.0
+183,596,Workflow Automation - Saffron Learning,Proposal,164000.0,2026-12-18,2026-09-10,,49.0
+184,343,Customer Onboarding Workflow - Orbit Agritech,Proposal,141000.0,2026-11-05,2026-09-26,,59.0
+185,695,Sales Ops Automation - Evergreen Tech Solutions Pvt Ltd,Qualification,710000.0,2026-12-19,2026-05-22,,25.0
+186,426,Invoice Automation - Lotus Tech Solutions,Prospecting,85000.0,2026-11-06,2026-07-13,,14.0
+187,425,Sales Ops Automation - Indigo Cargo Systems,Closed Won,314000.0,2026-10-05,2026-08-28,2026-10-05,100.0
+188,744,Workflow Automation - Terra Edu Services,Negotiation,167000.0,2026-10-09,2026-02-19,,76.0
+189,543,CRM Setup & Automation - Metro Industries,Prospecting,200000.0,2026-10-09,2026-04-09,,18.0
+190,44,Invoice Automation - Metro Agro,Closed Won,43000.0,2026-09-24,2026-06-27,2026-09-24,100.0
+191,210,Invoice Automation - Sunrise Academy,Qualification,404000.0,2026-11-10,2026-03-16,,26.0
+192,74,Process Consulting - Delta Cargo Systems,Negotiation,74000.0,2026-12-02,2026-06-13,,81.0
+193,545,Invoice Automation - Summit Fabricators India,Qualification,184000.0,2026-11-22,2026-05-02,,26.0
+194,721,Process Consulting - Apex Hotels,Qualification,307000.0,2026-12-22,2026-09-13,,25.0
+195,63,Workflow Automation - Swift Advisors,Closed Lost,184000.0,2026-04-01,2026-01-29,2026-04-01,0.0
+196,2,Customer Onboarding Workflow - Kite Retail,Closed Lost,137000.0,2026-07-15,2026-06-05,2026-07-15,0.0
+197,197,Customer Onboarding Workflow - Crest Cargo Systems,Closed Won,53000.0,2026-07-13,2026-06-07,2026-07-13,100.0
+198,593,Workflow Automation - Crest Advisors,Proposal,299000.0,2026-12-18,2026-04-17,,52.0
+199,239,Reporting Dashboard Build - Cobalt Diagnostics,Proposal,457000.0,2026-11-08,2026-06-22,,59.0
+200,282,Workflow Automation - Vista Fabricators,Prospecting,273000.0,2026-10-19,2026-05-09,,19.0
+201,326,Reporting Dashboard Build - Saffron Components,Prospecting,253000.0,2026-10-15,2026-09-03,,11.0
+202,36,Sales Ops Automation - Delta Digital Systems,Negotiation,111000.0,2026-12-29,2026-05-04,,73.0
+203,360,Reporting Dashboard Build - Summit Farms,Negotiation,82000.0,2026-10-13,2026-04-30,,79.0
+204,515,Workflow Automation - Terra Industries,Negotiation,40000.0,2026-11-24,2026-07-06,,72.0
+205,166,CRM Setup & Automation - Prime Stays,Prospecting,500000.0,2026-12-14,2026-04-10,,19.0
+206,473,Sales Ops Automation - Zen Academy,Prospecting,429000.0,2026-12-22,2026-08-04,,12.0
+207,26,Process Consulting - Kite Realty,Closed Won,692000.0,2026-10-05,2026-08-24,2026-10-05,100.0
+208,710,Workflow Automation - Vista Finserv,Negotiation,273000.0,2026-10-09,2026-08-03,,69.0
+209,649,Process Consulting - Metro Realty,Proposal,47000.0,2026-12-07,2026-08-02,,62.0
+210,416,Process Consulting - Saffron Hotels,Negotiation,118000.0,2026-12-16,2026-08-13,,80.0
+211,718,Reporting Dashboard Build - Evergreen Cargo Systems,Negotiation,279000.0,2026-12-02,2026-08-11,,72.0
+212,114,Customer Onboarding Workflow - Apex Agritech,Closed Won,439000.0,2026-10-05,2026-09-20,2026-10-05,100.0
+213,257,Invoice Automation - Kite Cargo Systems,Closed Won,77000.0,2026-04-21,2026-01-23,2026-04-21,100.0
+214,375,CRM Setup & Automation - Nova Advisors,Closed Won,214000.0,2026-08-27,2026-07-29,2026-08-27,100.0
+215,187,Workflow Automation - Summit Fabricators India,Closed Won,47000.0,2026-08-23,2026-06-30,2026-08-23,100.0
+216,422,Workflow Automation - Vista Edu Services,Prospecting,106000.0,2026-10-27,2026-06-17,,8.0
+217,519,Reporting Dashboard Build - Apex Freight Lines,Closed Lost,380000.0,2026-06-05,2026-05-01,2026-06-05,0.0
+218,644,Customer Onboarding Workflow - Urban Softworks,Closed Lost,172000.0,2026-10-05,2026-09-30,2026-10-05,0.0
+219,31,Invoice Automation - Summit Clinics,Qualification,126000.0,2026-12-22,2026-02-15,,32.0
+220,435,Sales Ops Automation - Harbor Stores Co,Closed Lost,874000.0,2026-10-01,2026-09-05,2026-10-01,0.0
+221,634,Customer Onboarding Workflow - Indigo Healthcare,Closed Won,41000.0,2026-07-23,2026-06-01,2026-07-23,100.0
+222,227,Process Consulting - Pioneer Agro,Closed Won,787000.0,2026-09-21,2026-07-24,2026-09-21,100.0
+223,459,Sales Ops Automation - Summit Finserv,Prospecting,78000.0,2026-10-28,2026-02-26,,19.0
+224,420,Sales Ops Automation - Indigo Industries,Closed Lost,527000.0,2026-04-25,2026-03-10,2026-04-25,0.0
+225,144,Sales Ops Automation - Maple Hotels Co,Proposal,783000.0,2026-12-14,2026-08-24,,55.0
+226,211,Invoice Automation - Granite Tech Solutions,Negotiation,335000.0,2026-12-16,2026-06-24,,83.0
+227,396,Workflow Automation - Blue Freight Lines,Qualification,383000.0,2026-11-19,2026-07-14,,34.0
+228,220,Workflow Automation - Metro Realty,Closed Lost,71000.0,2026-09-19,2026-06-29,2026-09-19,0.0
+229,232,Process Consulting - Horizon Stays,Negotiation,72000.0,2026-10-06,2026-03-06,,78.0
+230,714,Reporting Dashboard Build - Swift Agro,Closed Won,170000.0,2026-08-13,2026-07-18,2026-08-13,100.0
+231,157,CRM Setup & Automation - Maple Fabricators,Closed Lost,497000.0,2026-07-08,2026-06-09,2026-07-08,0.0
+232,650,Invoice Automation - Pioneer Agro,Proposal,530000.0,2026-11-08,2026-08-14,,56.0
+233,28,CRM Setup & Automation - Delta Academy,Qualification,41000.0,2026-12-30,2026-08-11,,34.0
+234,29,Sales Ops Automation - Apex Components,Proposal,634000.0,2026-10-28,2026-03-08,,47.0
+235,619,Workflow Automation - Evergreen Tech Solutions Pvt Ltd,Proposal,108000.0,2026-12-06,2026-07-13,,55.0
+236,216,Sales Ops Automation - Terra Freight Lines,Closed Lost,196000.0,2026-07-24,2026-05-18,2026-07-24,0.0
+237,118,Process Consulting - Vista Academy,Proposal,361000.0,2026-11-28,2026-07-06,,56.0
+238,374,Process Consulting - Horizon Digital Systems,Closed Lost,268000.0,2026-08-19,2026-07-25,2026-08-19,0.0
+239,436,Workflow Automation - Vertex Agro,Proposal,80000.0,2026-10-04,2026-07-26,,54.0
+240,534,Customer Onboarding Workflow - Crest Stays,Qualification,83000.0,2026-12-04,2026-09-01,,37.0
+241,13,Reporting Dashboard Build - Vista Hotels Co,Closed Won,1000000.0,2026-03-28,2026-02-25,2026-03-28,100.0
+242,181,Sales Ops Automation - Vista Fabricators,Proposal,359000.0,2026-10-19,2026-07-29,,47.0
+243,607,Sales Ops Automation - Apex Industries,Proposal,216000.0,2026-12-18,2026-04-07,,63.0
+244,172,CRM Setup & Automation - Delta Digital Systems,Negotiation,130000.0,2026-12-31,2026-03-23,,83.0
+245,367,Reporting Dashboard Build - Summit Capital,Qualification,124000.0,2026-10-01,2026-04-21,,35.0
+246,132,Customer Onboarding Workflow - Prime Advisors,Proposal,73000.0,2026-12-20,2026-04-18,,54.0
+247,311,CRM Setup & Automation - Horizon Stays,Proposal,239000.0,2026-11-01,2026-08-01,,55.0
+248,305,Customer Onboarding Workflow - Vista Advisors,Prospecting,211000.0,2026-12-16,2026-06-27,,23.0
+249,478,Invoice Automation - Harbor Finserv,Closed Lost,522000.0,2026-04-03,2026-03-20,2026-04-03,0.0
+250,39,Reporting Dashboard Build - Delta Finserv,Proposal,284000.0,2026-11-08,2026-06-27,,52.0
+251,312,Invoice Automation - Lotus Components,Proposal,429000.0,2026-10-05,2026-08-10,,63.0
+252,69,CRM Setup & Automation - Vista Fabricators,Closed Lost,88000.0,2026-08-27,2026-08-13,2026-08-27,0.0
+253,143,Process Consulting - Amber Industries,Closed Won,183000.0,2026-07-25,2026-05-25,2026-07-25,100.0
+254,304,Sales Ops Automation - Granite Industries,Proposal,964000.0,2026-10-08,2026-06-29,,61.0
+255,198,Workflow Automation - Urban Edu Services,Closed Won,117000.0,2026-10-03,2026-07-26,2026-10-03,100.0
+256,712,Reporting Dashboard Build - Evergreen Clinics,Proposal,69000.0,2026-09-30,2026-09-19,,51.0
+257,458,Sales Ops Automation - Amber Logistics,Proposal,41000.0,2026-10-20,2026-04-25,,62.0
+258,583,Customer Onboarding Workflow - Vertex Clinics,Closed Lost,429000.0,2026-10-05,2026-08-07,2026-10-05,0.0
+259,703,Invoice Automation - Vertex Learning,Negotiation,356000.0,2027-01-02,2026-07-27,,79.0
+260,328,Customer Onboarding Workflow - Evergreen Hotels,Closed Won,107000.0,2026-09-06,2026-08-10,2026-09-06,100.0
+261,506,Workflow Automation - Metro Diagnostics,Prospecting,328000.0,2027-01-01,2026-07-13,,14.0
+262,62,Reporting Dashboard Build - Orbit Healthcare,Negotiation,501000.0,2026-12-28,2026-04-08,,67.0
+263,117,Invoice Automation - Crest Farms,Proposal,527000.0,2026-11-18,2026-08-14,,54.0
+264,670,Sales Ops Automation - Metro Retail,Qualification,171000.0,2026-10-09,2026-06-27,,30.0
+265,709,Sales Ops Automation - Urban Cargo Systems,Qualification,183000.0,2027-01-03,2026-05-27,,25.0
+266,591,Sales Ops Automation - Vista Fabricators,Closed Won,216000.0,2026-10-02,2026-07-05,2026-10-02,100.0
+267,319,CRM Setup & Automation - Nova Digital Systems,Negotiation,67000.0,2026-09-29,2026-06-05,,75.0
+268,17,Customer Onboarding Workflow - Granite Learning,Closed Lost,48000.0,2026-03-24,2026-02-27,2026-03-24,0.0
+269,605,CRM Setup & Automation - Apex Academy,Prospecting,814000.0,2026-12-15,2026-03-06,,14.0
+270,90,Process Consulting - Harbor Agro,Qualification,46000.0,2026-12-16,2026-08-01,,23.0
+271,82,CRM Setup & Automation - Saffron Capital,Prospecting,295000.0,2026-12-25,2026-08-24,,20.0
+272,547,CRM Setup & Automation - Saffron Developers,Qualification,104000.0,2026-10-01,2026-09-06,,32.0
+273,713,Process Consulting - Zen Academy Group,Qualification,75000.0,2026-10-27,2026-05-10,,37.0
+274,655,Process Consulting - Granite Tech Solutions,Qualification,81000.0,2026-12-21,2026-08-04,,26.0
+275,625,CRM Setup & Automation - Cobalt Advisors,Proposal,902000.0,2026-10-25,2026-05-15,,55.0
+276,475,Workflow Automation - Cobalt Agro,Negotiation,67000.0,2026-12-29,2026-08-17,,70.0
+277,665,Invoice Automation - Lotus Components,Negotiation,197000.0,2026-10-07,2026-06-25,,69.0
+278,728,Workflow Automation - Nova Advisors,Negotiation,718000.0,2026-10-20,2026-04-29,,71.0
+279,523,Process Consulting - Cobalt Agro,Prospecting,934000.0,2026-12-31,2026-04-04,,18.0
+280,729,Invoice Automation - Vista Cargo Systems,Proposal,367000.0,2026-11-17,2026-09-02,,63.0
+281,674,Process Consulting - Terra Industries,Closed Won,273000.0,2026-09-21,2026-08-22,2026-09-21,100.0
+282,52,Sales Ops Automation - Swift Finserv,Prospecting,200000.0,2026-11-14,2026-09-14,,22.0
+283,252,Invoice Automation - Evergreen Clinics,Proposal,120000.0,2026-11-29,2026-08-23,,59.0
+284,81,CRM Setup & Automation - Horizon Hospitality,Closed Won,231000.0,2026-03-23,2026-03-09,2026-03-23,100.0
+285,103,Process Consulting - Lotus Freight Lines,Negotiation,858000.0,2026-12-24,2026-09-26,,83.0
+286,89,CRM Setup & Automation - Summit Edu Services,Qualification,274000.0,2026-12-04,2026-06-10,,25.0
+287,67,CRM Setup & Automation - Harbor Stores Co,Qualification,216000.0,2026-10-13,2026-08-14,,30.0
+288,248,Workflow Automation - Apex Academy,Qualification,215000.0,2026-10-21,2026-09-04,,25.0
+289,629,Sales Ops Automation - Summit Edu Services,Negotiation,281000.0,2026-12-24,2026-08-03,,75.0
+290,145,Customer Onboarding Workflow - Horizon Diagnostics,Prospecting,382000.0,2026-12-14,2026-08-08,,7.0
+291,107,Sales Ops Automation - Prime Developers,Proposal,113000.0,2026-09-27,2026-06-01,,50.0
+292,401,CRM Setup & Automation - Granite Industries,Closed Won,289000.0,2026-06-29,2026-04-06,2026-06-29,100.0
+293,356,Sales Ops Automation - Lotus Agritech,Closed Won,302000.0,2026-09-06,2026-06-10,2026-09-06,100.0
+294,395,Process Consulting - Vertex Diagnostics,Closed Won,121000.0,2026-07-09,2026-05-01,2026-07-09,100.0
+295,397,Customer Onboarding Workflow - Lotus Tech Solutions,Qualification,77000.0,2026-11-22,2026-09-26,,27.0
+296,200,Sales Ops Automation - Prime Advisors,Closed Won,708000.0,2026-08-02,2026-06-26,2026-08-02,100.0
+297,350,Workflow Automation - Lotus Tech Solutions,Qualification,139000.0,2026-11-14,2026-05-10,,28.0
+298,68,Workflow Automation - Vertex Agro,Qualification,182000.0,2026-12-16,2026-07-08,,34.0
+299,493,Reporting Dashboard Build - Summit Farms,Closed Won,48000.0,2026-09-22,2026-07-22,2026-09-22,100.0
+300,653,Process Consulting - Saffron Diagnostics,Prospecting,40000.0,2027-01-01,2026-09-24,,9.0
+301,113,Customer Onboarding Workflow - Orbit Freight Lines,Qualification,53000.0,2026-10-08,2026-09-24,,32.0
+302,666,Reporting Dashboard Build - Maple Fabricators,Closed Won,122000.0,2026-09-13,2026-06-19,2026-09-13,100.0
+303,327,Workflow Automation - Urban Edu Services,Closed Won,326000.0,2026-09-05,2026-07-22,2026-09-05,100.0
+304,225,Invoice Automation - Apex Components,Proposal,759000.0,2026-09-30,2026-09-24,,50.0
+305,177,CRM Setup & Automation - Metro Agro,Qualification,102000.0,2026-10-23,2026-03-02,,22.0
+306,673,Sales Ops Automation - Terra Finserv,Proposal,345000.0,2026-10-23,2026-07-17,,59.0
+307,529,CRM Setup & Automation - Delta Digital Systems,Closed Lost,546000.0,2026-09-01,2026-08-04,2026-09-01,0.0
+308,148,Process Consulting - Pioneer Softworks,Prospecting,281000.0,2026-11-06,2026-05-09,,10.0
+309,83,Reporting Dashboard Build - Crest Retail,Closed Lost,48000.0,2026-10-05,2026-08-31,2026-10-05,0.0
+310,661,Invoice Automation - Vertex Diagnostics,Proposal,379000.0,2026-12-19,2026-06-30,,56.0
+311,400,Sales Ops Automation - Prime Developers,Closed Won,71000.0,2026-06-21,2026-04-05,2026-06-21,100.0
+312,720,Process Consulting - Summit Fabricators,Proposal,84000.0,2026-10-14,2026-06-30,,51.0
+313,178,Sales Ops Automation - Harbor Agro,Qualification,681000.0,2026-10-09,2026-07-09,,35.0
+314,340,Process Consulting - Summit Fabricators,Qualification,383000.0,2026-10-18,2026-08-15,,34.0
+315,439,CRM Setup & Automation - Maple Fabricators,Qualification,656000.0,2026-11-16,2026-02-26,,32.0
+316,364,Invoice Automation - Crest Farms,Closed Won,419000.0,2026-08-13,2026-05-28,2026-08-13,100.0
+317,736,Invoice Automation - Delta Academy,Proposal,369000.0,2026-12-25,2026-06-05,,60.0
+318,138,Customer Onboarding Workflow - Nova Realty,Negotiation,70000.0,2026-09-25,2026-06-10,,73.0
+319,33,Process Consulting - Falcon Advisors,Prospecting,141000.0,2026-10-02,2026-06-17,,18.0
+320,725,Reporting Dashboard Build - Indigo Agritech,Closed Won,253000.0,2026-10-05,2026-07-21,2026-10-05,100.0
+321,162,Reporting Dashboard Build - Evergreen Cargo Systems,Qualification,50000.0,2026-10-10,2026-06-08,,26.0
+322,296,Sales Ops Automation - Blue Tech Solutions,Closed Won,278000.0,2026-03-24,2026-02-25,2026-03-24,100.0
+323,671,Workflow Automation - Maple Fabricators,Negotiation,103000.0,2026-11-10,2026-03-29,,71.0
+324,705,Sales Ops Automation - Saffron Learning,Qualification,379000.0,2026-10-18,2026-09-24,,37.0
+325,630,Customer Onboarding Workflow - Swift Finserv,Qualification,596000.0,2026-11-07,2026-04-30,,36.0
+326,32,Invoice Automation - Saffron Components,Negotiation,222000.0,2026-10-02,2026-09-24,,68.0
+327,608,Sales Ops Automation - Indigo Advisors,Closed Won,44000.0,2026-09-16,2026-07-10,2026-09-16,100.0
+328,334,Invoice Automation - Apex Logistics,Closed Lost,934000.0,2026-10-05,2026-09-30,2026-10-05,0.0
+329,314,Invoice Automation - Nova Digital Systems,Proposal,494000.0,2026-10-29,2026-08-06,,49.0
+330,303,Reporting Dashboard Build - Saffron Hotels,Proposal,178000.0,2026-10-02,2026-07-28,,54.0
+331,567,Customer Onboarding Workflow - Saffron Digital Systems,Qualification,610000.0,2026-12-17,2026-08-22,,34.0
+332,381,Workflow Automation - Summit Components,Proposal,344000.0,2026-10-19,2026-09-03,,55.0
+333,526,Invoice Automation - Vista Finserv,Prospecting,275000.0,2026-10-31,2026-05-29,,12.0
+334,399,Invoice Automation - Vertex Agro Co,Prospecting,50000.0,2026-11-03,2026-06-14,,13.0
+335,19,Invoice Automation - Crest Stays,Qualification,170000.0,2026-12-06,2026-09-14,,23.0
+336,494,Process Consulting - Harbor Stores,Closed Lost,39000.0,2026-08-26,2026-08-01,2026-08-26,0.0
+337,284,Process Consulting - Saffron Diagnostics,Prospecting,296000.0,2026-11-28,2026-09-03,,13.0
+338,535,Process Consulting - Delta Cargo Systems,Closed Won,132000.0,2026-05-29,2026-05-03,2026-05-29,100.0
+339,297,Invoice Automation - Apex Logistics,Proposal,963000.0,2026-10-14,2026-08-10,,47.0
+340,500,Sales Ops Automation - Summit Finserv,Closed Won,43000.0,2026-03-03,2026-01-29,2026-03-03,100.0
+341,213,Customer Onboarding Workflow - Horizon Diagnostics,Proposal,209000.0,2026-12-21,2026-08-14,,51.0
+342,222,Process Consulting - Maple Healthcare,Closed Won,675000.0,2026-09-06,2026-07-11,2026-09-06,100.0
+343,498,CRM Setup & Automation - Terra Finserv,Proposal,52000.0,2027-01-02,2026-09-16,,59.0
+344,53,Customer Onboarding Workflow - Indigo Healthcare,Qualification,126000.0,2026-11-27,2026-08-23,,25.0
+345,586,Reporting Dashboard Build - Vista Fabricators,Prospecting,981000.0,2027-01-03,2026-04-25,,9.0
+346,171,Process Consulting - Evergreen Clinics,Prospecting,141000.0,2026-10-15,2026-06-26,,9.0
+347,588,Process Consulting - Vista Agro,Negotiation,66000.0,2026-12-24,2026-04-03,,81.0
+348,201,Workflow Automation - Indigo Cargo Systems,Closed Lost,647000.0,2026-06-22,2026-05-22,2026-06-22,0.0
+349,461,Reporting Dashboard Build - Saffron Digital Systems,Closed Lost,44000.0,2026-07-02,2026-05-13,2026-07-02,0.0
+350,151,Process Consulting - Horizon Diagnostics,Proposal,587000.0,2026-12-13,2026-09-17,,57.0
+351,104,Invoice Automation - Apex Industries,Prospecting,856000.0,2026-12-21,2026-07-20,,8.0
+352,603,Workflow Automation - Blue Cargo Systems,Closed Lost,197000.0,2026-10-05,2026-09-01,2026-10-05,0.0
+353,456,Customer Onboarding Workflow - Orbit Freight Lines,Qualification,245000.0,2026-12-06,2026-08-08,,34.0
+354,688,Reporting Dashboard Build - Lotus Tech Solutions Co,Prospecting,651000.0,2026-11-08,2026-08-02,,21.0
+355,689,Reporting Dashboard Build - Lotus Components,Negotiation,66000.0,2026-12-27,2026-02-15,,70.0
+356,698,Process Consulting - Evergreen Cargo Systems,Closed Won,405000.0,2026-08-13,2026-06-20,2026-08-13,100.0
+357,249,Workflow Automation - Crest Cargo Systems,Closed Lost,197000.0,2026-04-09,2026-01-25,2026-04-09,0.0
+358,228,Sales Ops Automation - Summit Learning,Qualification,769000.0,2026-11-24,2026-09-11,,26.0
+359,582,Reporting Dashboard Build - Sunrise Clinics Group,Qualification,366000.0,2026-11-10,2026-09-14,,35.0
+360,86,Process Consulting - Nova Cargo Systems,Qualification,53000.0,2026-12-21,2026-08-28,,35.0
+361,489,Workflow Automation - Delta Logistics,Qualification,67000.0,2026-10-30,2026-07-30,,34.0
+362,12,CRM Setup & Automation - Orbit Healthcare,Qualification,434000.0,2026-12-19,2026-05-15,,30.0
+363,557,CRM Setup & Automation - Vertex Agro,Closed Won,407000.0,2026-10-05,2026-08-14,2026-10-05,100.0
+364,243,Sales Ops Automation - Maple Learning,Qualification,610000.0,2026-12-22,2026-07-02,,27.0
+365,76,Workflow Automation - Swift Finserv,Proposal,47000.0,2026-12-10,2026-04-04,,53.0
+366,560,Workflow Automation - Evergreen Edu Services,Closed Won,346000.0,2026-09-10,2026-07-18,2026-09-10,100.0
+367,389,Customer Onboarding Workflow - Terra Finserv,Qualification,123000.0,2026-11-04,2026-02-08,,25.0
+368,518,Reporting Dashboard Build - Indigo Healthcare,Closed Lost,258000.0,2026-03-20,2026-03-06,2026-03-20,0.0
+369,384,Workflow Automation - Saffron Hotels,Closed Lost,644000.0,2026-10-05,2026-07-28,2026-10-05,0.0
+370,564,Invoice Automation - Harbor Finserv,Prospecting,459000.0,2027-01-02,2026-08-11,,12.0
+371,631,Process Consulting - Kite Stays,Proposal,213000.0,2026-12-20,2026-04-07,,47.0
+372,566,Customer Onboarding Workflow - Saffron Developers,Closed Won,291000.0,2026-10-05,2026-09-26,2026-10-05,100.0
+373,536,Process Consulting - Indigo Softworks,Closed Won,597000.0,2026-05-29,2026-03-31,2026-05-29,100.0
+374,376,Workflow Automation - Summit Clinics Group,Closed Won,1012000.0,2026-04-21,2026-02-24,2026-04-21,100.0
+375,679,Invoice Automation - Metro Capital India,Closed Lost,412000.0,2026-05-03,2026-02-08,2026-05-03,0.0
+376,559,Sales Ops Automation - Lotus Freight Lines,Qualification,399000.0,2026-12-18,2026-08-02,,35.0
+377,247,Sales Ops Automation - Delta Logistics,Qualification,85000.0,2026-10-08,2026-08-11,,24.0
+378,108,Sales Ops Automation - Nova Realty,Prospecting,77000.0,2026-12-30,2026-06-03,,10.0
+379,14,Customer Onboarding Workflow - Vista Industries,Proposal,287000.0,2026-10-22,2026-09-14,,54.0
+380,579,Process Consulting - Apex Edu Services,Proposal,69000.0,2026-11-24,2026-03-19,,50.0
+381,357,Workflow Automation - Apex Agritech,Closed Lost,490000.0,2026-08-08,2026-06-05,2026-08-08,0.0
+382,452,Process Consulting - Vista Fabricators,Closed Lost,807000.0,2026-08-28,2026-07-12,2026-08-28,0.0
+383,58,Workflow Automation - Terra Agritech Co,Closed Won,153000.0,2026-06-25,2026-04-19,2026-06-25,100.0
+384,678,Process Consulting - Harbor Stores Co,Prospecting,366000.0,2026-11-30,2026-08-22,,17.0
+385,8,Invoice Automation - Metro Agro,Qualification,188000.0,2026-11-14,2026-09-15,,28.0
+386,70,Sales Ops Automation - Terra Agritech,Negotiation,376000.0,2026-12-15,2026-09-04,,79.0
+387,65,Sales Ops Automation - Apex Components,Qualification,770000.0,2026-10-24,2026-04-21,,25.0
+388,561,Customer Onboarding Workflow - Apex Hotels,Closed Won,481000.0,2026-09-17,2026-08-01,2026-09-17,100.0
+389,623,Workflow Automation - Saffron Agro,Proposal,159000.0,2026-09-28,2026-07-22,,60.0
+390,412,Invoice Automation - Blue Academy,Negotiation,48000.0,2026-12-03,2026-07-14,,69.0
+391,346,CRM Setup & Automation - Saffron Capital,Proposal,643000.0,2027-01-02,2026-07-26,,58.0
+392,454,Customer Onboarding Workflow - Sunrise Farms,Qualification,229000.0,2026-10-26,2026-06-09,,34.0
+393,418,Sales Ops Automation - Cobalt Fabricators,Qualification,220000.0,2026-10-13,2026-09-04,,22.0
+394,354,Workflow Automation - Amber Logistics,Closed Lost,76000.0,2026-10-05,2026-08-09,2026-10-05,0.0
+395,584,Reporting Dashboard Build - Granite Industries,Prospecting,291000.0,2026-10-06,2026-06-25,,9.0
+396,316,Reporting Dashboard Build - Lotus Components,Closed Won,372000.0,2026-07-02,2026-06-16,2026-07-02,100.0
+397,317,Sales Ops Automation - Saffron Components,Prospecting,196000.0,2026-11-12,2026-09-30,,17.0
+398,156,Sales Ops Automation - Saffron Digital Systems,Closed Lost,115000.0,2026-08-15,2026-07-10,2026-08-15,0.0
+399,250,Invoice Automation - Blue Freight Lines,Negotiation,89000.0,2026-11-08,2026-09-14,,82.0
+400,372,CRM Setup & Automation - Blue Cargo Systems,Negotiation,124000.0,2026-10-27,2026-09-28,,70.0

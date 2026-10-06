@@ -1,0 +1,9 @@
+gradio>=6.0,<7
+pandas>=2.2
+plotly>=6.0
+openpyxl>=3.1
+python-dotenv>=1.0
+rapidfuzz>=3.0
+google-genai>=2.0,<3
+# Optional (only for PostgreSQL via DATABASE_URL=postgresql://...):
+# psycopg[binary]>=3.1

@@ -1,0 +1,11 @@
+cd /d "C:\Users\Admin\Downloads\brightbridge-sales-ai\brightbridge-sales-ai"
+
+conda activate brightbridge_ai
+
+pip install -r requirements.txt
+
+python scripts/initialize_database.py
+
+python scripts/generate_demo_data.py
+
+python app.py
